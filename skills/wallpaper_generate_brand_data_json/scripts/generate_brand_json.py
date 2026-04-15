@@ -134,13 +134,13 @@ def build_items(model_dir: Path, brand_name: str, model_name: str) -> List[dict]
 
 
 def sort_key_by_date(entry: dict) -> Tuple[int, int, int, str]:
-    """Sort by YYYY/MM ascending (older first); invalid/missing dates last."""
+    """Sort by YYYY/MM descending (newer first); invalid/missing dates last."""
     date_str = entry.get("date", "")
     try:
         year_str, month_str = date_str.split("/")
-        return (0, int(year_str), int(month_str), entry.get("name", ""))
+        return (0, -int(year_str), -int(month_str), entry.get("name", ""))
     except (ValueError, AttributeError):
-        return (1, 9999, 12, entry.get("name", ""))
+        return (1, 0, 0, entry.get("name", ""))
 
 
 def generate_brand_dir(brand_dir: Path, brand_name: str, dates: Dict[str, str], out_file: Path) -> None:

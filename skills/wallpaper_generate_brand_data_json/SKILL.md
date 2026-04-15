@@ -35,6 +35,7 @@ python3 scripts/generate_brand_json.py --input-path "/path/to/wallpaper-root"
 4. Verify output format:
    - JSON array of models: `{ name, date, item[] }`
    - `item` includes: `name`, `type`, `size`, `originPath`, `compressPath`
+   - models are sorted by `date` from newest to oldest (`YYYY/MM` descending), then by model name
 
 ## Script
 
