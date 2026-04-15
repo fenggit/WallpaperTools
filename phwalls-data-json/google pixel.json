@@ -1,0 +1,2779 @@
+[
+  {
+    "name": "Google Pixel 10",
+    "date": "2025/08",
+    "item": [
+      {
+        "name": "google-pixel-10-blue-mysticleaks-dark",
+        "type": "image/jpeg",
+        "size": "1.86 MB",
+        "originPath": "google pixel/Google Pixel 10/origin/google-pixel-10-blue-mysticleaks-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 10/compress/google-pixel-10-blue-mysticleaks-dark.webp"
+      },
+      {
+        "name": "google-pixel-10-blue-mysticleaks-light",
+        "type": "image/jpeg",
+        "size": "1.64 MB",
+        "originPath": "google pixel/Google Pixel 10/origin/google-pixel-10-blue-mysticleaks-light.jpg",
+        "compressPath": "google pixel/Google Pixel 10/compress/google-pixel-10-blue-mysticleaks-light.webp"
+      },
+      {
+        "name": "google-pixel-10-extra-blue-mysticleaks-dark",
+        "type": "image/jpeg",
+        "size": "1.3 MB",
+        "originPath": "google pixel/Google Pixel 10/origin/google-pixel-10-extra-blue-mysticleaks-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 10/compress/google-pixel-10-extra-blue-mysticleaks-dark.webp"
+      },
+      {
+        "name": "google-pixel-10-extra-blue-mysticleaks-light",
+        "type": "image/jpeg",
+        "size": "1.36 MB",
+        "originPath": "google pixel/Google Pixel 10/origin/google-pixel-10-extra-blue-mysticleaks-light.jpg",
+        "compressPath": "google pixel/Google Pixel 10/compress/google-pixel-10-extra-blue-mysticleaks-light.webp"
+      },
+      {
+        "name": "google-pixel-10-extra-iris-mysticleaks-dark",
+        "type": "image/jpeg",
+        "size": "1.2 MB",
+        "originPath": "google pixel/Google Pixel 10/origin/google-pixel-10-extra-iris-mysticleaks-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 10/compress/google-pixel-10-extra-iris-mysticleaks-dark.webp"
+      },
+      {
+        "name": "google-pixel-10-extra-iris-mysticleaks-light",
+        "type": "image/jpeg",
+        "size": "1.23 MB",
+        "originPath": "google pixel/Google Pixel 10/origin/google-pixel-10-extra-iris-mysticleaks-light.jpg",
+        "compressPath": "google pixel/Google Pixel 10/compress/google-pixel-10-extra-iris-mysticleaks-light.webp"
+      },
+      {
+        "name": "google-pixel-10-extra-limoncello-mysticleaks-dark",
+        "type": "image/jpeg",
+        "size": "1.12 MB",
+        "originPath": "google pixel/Google Pixel 10/origin/google-pixel-10-extra-limoncello-mysticleaks-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 10/compress/google-pixel-10-extra-limoncello-mysticleaks-dark.webp"
+      },
+      {
+        "name": "google-pixel-10-extra-limoncello-mysticleaks-light",
+        "type": "image/jpeg",
+        "size": "1.21 MB",
+        "originPath": "google pixel/Google Pixel 10/origin/google-pixel-10-extra-limoncello-mysticleaks-light.jpg",
+        "compressPath": "google pixel/Google Pixel 10/compress/google-pixel-10-extra-limoncello-mysticleaks-light.webp"
+      },
+      {
+        "name": "google-pixel-10-extra-obsidian-mysticleaks-dark",
+        "type": "image/jpeg",
+        "size": "956.16 KB",
+        "originPath": "google pixel/Google Pixel 10/origin/google-pixel-10-extra-obsidian-mysticleaks-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 10/compress/google-pixel-10-extra-obsidian-mysticleaks-dark.webp"
+      },
+      {
+        "name": "google-pixel-10-extra-obsidian-mysticleaks-light",
+        "type": "image/jpeg",
+        "size": "1.05 MB",
+        "originPath": "google pixel/Google Pixel 10/origin/google-pixel-10-extra-obsidian-mysticleaks-light.jpg",
+        "compressPath": "google pixel/Google Pixel 10/compress/google-pixel-10-extra-obsidian-mysticleaks-light.webp"
+      },
+      {
+        "name": "google-pixel-10-iris-mysticleaks-dark",
+        "type": "image/jpeg",
+        "size": "1.94 MB",
+        "originPath": "google pixel/Google Pixel 10/origin/google-pixel-10-iris-mysticleaks-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 10/compress/google-pixel-10-iris-mysticleaks-dark.webp"
+      },
+      {
+        "name": "google-pixel-10-iris-mysticleaks-light",
+        "type": "image/jpeg",
+        "size": "2 MB",
+        "originPath": "google pixel/Google Pixel 10/origin/google-pixel-10-iris-mysticleaks-light.jpg",
+        "compressPath": "google pixel/Google Pixel 10/compress/google-pixel-10-iris-mysticleaks-light.webp"
+      },
+      {
+        "name": "google-pixel-10-limoncello-mysticleaks-dark",
+        "type": "image/jpeg",
+        "size": "1.97 MB",
+        "originPath": "google pixel/Google Pixel 10/origin/google-pixel-10-limoncello-mysticleaks-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 10/compress/google-pixel-10-limoncello-mysticleaks-dark.webp"
+      },
+      {
+        "name": "google-pixel-10-limoncello-mysticleaks-light",
+        "type": "image/jpeg",
+        "size": "1.81 MB",
+        "originPath": "google pixel/Google Pixel 10/origin/google-pixel-10-limoncello-mysticleaks-light.jpg",
+        "compressPath": "google pixel/Google Pixel 10/compress/google-pixel-10-limoncello-mysticleaks-light.webp"
+      },
+      {
+        "name": "google-pixel-10-obsidian-mysticleaks-dark",
+        "type": "image/jpeg",
+        "size": "1.73 MB",
+        "originPath": "google pixel/Google Pixel 10/origin/google-pixel-10-obsidian-mysticleaks-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 10/compress/google-pixel-10-obsidian-mysticleaks-dark.webp"
+      },
+      {
+        "name": "google-pixel-10-obsidian-mysticleaks-light",
+        "type": "image/jpeg",
+        "size": "1.85 MB",
+        "originPath": "google pixel/Google Pixel 10/origin/google-pixel-10-obsidian-mysticleaks-light.jpg",
+        "compressPath": "google pixel/Google Pixel 10/compress/google-pixel-10-obsidian-mysticleaks-light.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 10 Pro",
+    "date": "2025/08",
+    "item": [
+      {
+        "name": "google-pixel-10-pro-green-mysticleaks-dark",
+        "type": "image/jpeg",
+        "size": "2.44 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro/origin/google-pixel-10-pro-green-mysticleaks-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro/compress/google-pixel-10-pro-green-mysticleaks-dark.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-green-mysticleaks-light",
+        "type": "image/jpeg",
+        "size": "2.3 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro/origin/google-pixel-10-pro-green-mysticleaks-light.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro/compress/google-pixel-10-pro-green-mysticleaks-light.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-obsidian-mysticleaks-dark",
+        "type": "image/jpeg",
+        "size": "1.6 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro/origin/google-pixel-10-pro-obsidian-mysticleaks-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro/compress/google-pixel-10-pro-obsidian-mysticleaks-dark.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-obsidian-mysticleaks-light",
+        "type": "image/jpeg",
+        "size": "2.05 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro/origin/google-pixel-10-pro-obsidian-mysticleaks-light.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro/compress/google-pixel-10-pro-obsidian-mysticleaks-light.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-porcelain-mysticleaks-dark",
+        "type": "image/jpeg",
+        "size": "2.48 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro/origin/google-pixel-10-pro-porcelain-mysticleaks-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro/compress/google-pixel-10-pro-porcelain-mysticleaks-dark.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-porcelain-mysticleaks-light",
+        "type": "image/jpeg",
+        "size": "2.36 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro/origin/google-pixel-10-pro-porcelain-mysticleaks-light.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro/compress/google-pixel-10-pro-porcelain-mysticleaks-light.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-sterling-mysticleaks-dark",
+        "type": "image/jpeg",
+        "size": "2.53 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro/origin/google-pixel-10-pro-sterling-mysticleaks-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro/compress/google-pixel-10-pro-sterling-mysticleaks-dark.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-sterling-mysticleaks-light",
+        "type": "image/jpeg",
+        "size": "2.59 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro/origin/google-pixel-10-pro-sterling-mysticleaks-light.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro/compress/google-pixel-10-pro-sterling-mysticleaks-light.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 10 Pro Fold",
+    "date": "2025/08",
+    "item": [
+      {
+        "name": "google-pixel-10-pro-fold-black-gray-gradient-01",
+        "type": "image/jpeg",
+        "size": "904.26 KB",
+        "originPath": "google pixel/Google Pixel 10 Pro Fold/origin/google-pixel-10-pro-fold-black-gray-gradient-01.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro Fold/compress/google-pixel-10-pro-fold-black-gray-gradient-01.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-fold-black-gray-gradient-02",
+        "type": "image/jpeg",
+        "size": "1.16 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro Fold/origin/google-pixel-10-pro-fold-black-gray-gradient-02.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro Fold/compress/google-pixel-10-pro-fold-black-gray-gradient-02.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-fold-black-gray-gradient-03",
+        "type": "image/jpeg",
+        "size": "1.13 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro Fold/origin/google-pixel-10-pro-fold-black-gray-gradient-03.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro Fold/compress/google-pixel-10-pro-fold-black-gray-gradient-03.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-fold-black-gray-gradient-04",
+        "type": "image/jpeg",
+        "size": "1.12 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro Fold/origin/google-pixel-10-pro-fold-black-gray-gradient-04.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro Fold/compress/google-pixel-10-pro-fold-black-gray-gradient-04.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-fold-black-gray-gradient-05",
+        "type": "image/jpeg",
+        "size": "1.19 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro Fold/origin/google-pixel-10-pro-fold-black-gray-gradient-05.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro Fold/compress/google-pixel-10-pro-fold-black-gray-gradient-05.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-fold-black-gray-gradient",
+        "type": "image/jpeg",
+        "size": "959.03 KB",
+        "originPath": "google pixel/Google Pixel 10 Pro Fold/origin/google-pixel-10-pro-fold-black-gray-gradient.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro Fold/compress/google-pixel-10-pro-fold-black-gray-gradient.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-fold-black-silver-gradient-01",
+        "type": "image/jpeg",
+        "size": "1.13 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro Fold/origin/google-pixel-10-pro-fold-black-silver-gradient-01.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro Fold/compress/google-pixel-10-pro-fold-black-silver-gradient-01.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-fold-black-silver-gradient",
+        "type": "image/jpeg",
+        "size": "1 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro Fold/origin/google-pixel-10-pro-fold-black-silver-gradient.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro Fold/compress/google-pixel-10-pro-fold-black-silver-gradient.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 10 Pro XL",
+    "date": "2025/08",
+    "item": [
+      {
+        "name": "google-pixel-10-pro-xl-extra-green-mysticleaks-dark",
+        "type": "image/jpeg",
+        "size": "1.96 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro XL/origin/google-pixel-10-pro-xl-extra-green-mysticleaks-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro XL/compress/google-pixel-10-pro-xl-extra-green-mysticleaks-dark.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-xl-extra-green-mysticleaks-light",
+        "type": "image/jpeg",
+        "size": "2.15 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro XL/origin/google-pixel-10-pro-xl-extra-green-mysticleaks-light.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro XL/compress/google-pixel-10-pro-xl-extra-green-mysticleaks-light.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-xl-extra-obsidian-mysticleaks-dark",
+        "type": "image/jpeg",
+        "size": "1.15 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro XL/origin/google-pixel-10-pro-xl-extra-obsidian-mysticleaks-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro XL/compress/google-pixel-10-pro-xl-extra-obsidian-mysticleaks-dark.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-xl-extra-obsidian-mysticleaks-light",
+        "type": "image/jpeg",
+        "size": "1.01 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro XL/origin/google-pixel-10-pro-xl-extra-obsidian-mysticleaks-light.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro XL/compress/google-pixel-10-pro-xl-extra-obsidian-mysticleaks-light.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-xl-extra-porcelain-mysticleaks-dark",
+        "type": "image/jpeg",
+        "size": "2.1 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro XL/origin/google-pixel-10-pro-xl-extra-porcelain-mysticleaks-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro XL/compress/google-pixel-10-pro-xl-extra-porcelain-mysticleaks-dark.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-xl-extra-porcelain-mysticleaks-light",
+        "type": "image/jpeg",
+        "size": "2.12 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro XL/origin/google-pixel-10-pro-xl-extra-porcelain-mysticleaks-light.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro XL/compress/google-pixel-10-pro-xl-extra-porcelain-mysticleaks-light.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-xl-extra-sterling-mysticleaks-dark",
+        "type": "image/jpeg",
+        "size": "1.65 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro XL/origin/google-pixel-10-pro-xl-extra-sterling-mysticleaks-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro XL/compress/google-pixel-10-pro-xl-extra-sterling-mysticleaks-dark.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-xl-extra-sterling-mysticleaks-light",
+        "type": "image/jpeg",
+        "size": "1.85 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro XL/origin/google-pixel-10-pro-xl-extra-sterling-mysticleaks-light.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro XL/compress/google-pixel-10-pro-xl-extra-sterling-mysticleaks-light.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-xl-green-mysticleaks-dark",
+        "type": "image/jpeg",
+        "size": "2.69 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro XL/origin/google-pixel-10-pro-xl-green-mysticleaks-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro XL/compress/google-pixel-10-pro-xl-green-mysticleaks-dark.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-xl-green-mysticleaks-light",
+        "type": "image/jpeg",
+        "size": "2.49 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro XL/origin/google-pixel-10-pro-xl-green-mysticleaks-light.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro XL/compress/google-pixel-10-pro-xl-green-mysticleaks-light.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-xl-obsidian-mysticleaks-dark",
+        "type": "image/jpeg",
+        "size": "1.73 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro XL/origin/google-pixel-10-pro-xl-obsidian-mysticleaks-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro XL/compress/google-pixel-10-pro-xl-obsidian-mysticleaks-dark.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-xl-obsidian-mysticleaks-light",
+        "type": "image/jpeg",
+        "size": "2.18 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro XL/origin/google-pixel-10-pro-xl-obsidian-mysticleaks-light.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro XL/compress/google-pixel-10-pro-xl-obsidian-mysticleaks-light.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-xl-porcelain-mysticleaks-dark",
+        "type": "image/jpeg",
+        "size": "2.65 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro XL/origin/google-pixel-10-pro-xl-porcelain-mysticleaks-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro XL/compress/google-pixel-10-pro-xl-porcelain-mysticleaks-dark.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-xl-porcelain-mysticleaks-light",
+        "type": "image/jpeg",
+        "size": "2.6 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro XL/origin/google-pixel-10-pro-xl-porcelain-mysticleaks-light.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro XL/compress/google-pixel-10-pro-xl-porcelain-mysticleaks-light.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-xl-sterling-mysticleaks-dark",
+        "type": "image/jpeg",
+        "size": "2.91 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro XL/origin/google-pixel-10-pro-xl-sterling-mysticleaks-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro XL/compress/google-pixel-10-pro-xl-sterling-mysticleaks-dark.webp"
+      },
+      {
+        "name": "google-pixel-10-pro-xl-sterling-mysticleaks-light",
+        "type": "image/jpeg",
+        "size": "2.92 MB",
+        "originPath": "google pixel/Google Pixel 10 Pro XL/origin/google-pixel-10-pro-xl-sterling-mysticleaks-light.jpg",
+        "compressPath": "google pixel/Google Pixel 10 Pro XL/compress/google-pixel-10-pro-xl-sterling-mysticleaks-light.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 10a",
+    "date": "2026/05",
+    "item": [
+      {
+        "name": "google-pixel-10a-black-teal-gradient",
+        "type": "image/jpeg",
+        "size": "523.02 KB",
+        "originPath": "google pixel/Google Pixel 10a/origin/google-pixel-10a-black-teal-gradient.jpeg",
+        "compressPath": "google pixel/Google Pixel 10a/compress/google-pixel-10a-black-teal-gradient.webp"
+      },
+      {
+        "name": "google-pixel-10a-blue-black-gradient",
+        "type": "image/jpeg",
+        "size": "668.35 KB",
+        "originPath": "google pixel/Google Pixel 10a/origin/google-pixel-10a-blue-black-gradient.jpeg",
+        "compressPath": "google pixel/Google Pixel 10a/compress/google-pixel-10a-blue-black-gradient.webp"
+      },
+      {
+        "name": "google-pixel-10a-gray-black-gradient",
+        "type": "image/jpeg",
+        "size": "803.09 KB",
+        "originPath": "google pixel/Google Pixel 10a/origin/google-pixel-10a-gray-black-gradient.jpeg",
+        "compressPath": "google pixel/Google Pixel 10a/compress/google-pixel-10a-gray-black-gradient.webp"
+      },
+      {
+        "name": "google-pixel-10a-pink-red-gradient",
+        "type": "image/jpeg",
+        "size": "577.67 KB",
+        "originPath": "google pixel/Google Pixel 10a/origin/google-pixel-10a-pink-red-gradient.jpeg",
+        "compressPath": "google pixel/Google Pixel 10a/compress/google-pixel-10a-pink-red-gradient.webp"
+      },
+      {
+        "name": "google-pixel-10a-white-blue-abstract",
+        "type": "image/jpeg",
+        "size": "971.37 KB",
+        "originPath": "google pixel/Google Pixel 10a/origin/google-pixel-10a-white-blue-abstract.jpeg",
+        "compressPath": "google pixel/Google Pixel 10a/compress/google-pixel-10a-white-blue-abstract.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 2",
+    "date": "2017/10",
+    "item": [
+      {
+        "name": "google-pixel-2-leaked-phone-area39-x",
+        "type": "image/jpeg",
+        "size": "556.73 KB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-leaked-phone-area39-x.jpg",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-leaked-phone-area39-x.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-01",
+        "type": "image/png",
+        "size": "524.59 KB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-01.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-01.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-02",
+        "type": "image/png",
+        "size": "3.4 MB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-02.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-02.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-03",
+        "type": "image/png",
+        "size": "1.29 MB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-03.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-03.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-04",
+        "type": "image/png",
+        "size": "902.05 KB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-04.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-04.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-05",
+        "type": "image/png",
+        "size": "284.79 KB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-05.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-05.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-06",
+        "type": "image/png",
+        "size": "276.45 KB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-06.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-06.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-07",
+        "type": "image/png",
+        "size": "57.2 KB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-07.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-07.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-08",
+        "type": "image/png",
+        "size": "59.27 KB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-08.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-08.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-09",
+        "type": "image/png",
+        "size": "74.33 KB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-09.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-09.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-10",
+        "type": "image/png",
+        "size": "1.62 MB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-10.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-10.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-11",
+        "type": "image/png",
+        "size": "916.88 KB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-11.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-11.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-12",
+        "type": "image/png",
+        "size": "943.24 KB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-12.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-12.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-13",
+        "type": "image/png",
+        "size": "907.52 KB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-13.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-13.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-14",
+        "type": "image/png",
+        "size": "171.79 KB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-14.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-14.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-15",
+        "type": "image/png",
+        "size": "421.5 KB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-15.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-15.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-16",
+        "type": "image/png",
+        "size": "106.97 KB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-16.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-16.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-17",
+        "type": "image/png",
+        "size": "968.53 KB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-17.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-17.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-18",
+        "type": "image/png",
+        "size": "860.59 KB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-18.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-18.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-19",
+        "type": "image/png",
+        "size": "663.48 KB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-19.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-19.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-20",
+        "type": "image/png",
+        "size": "1.33 MB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-20.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-20.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-21",
+        "type": "image/png",
+        "size": "573.29 KB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-21.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-21.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-22",
+        "type": "image/png",
+        "size": "624.62 KB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-22.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-22.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-23",
+        "type": "image/png",
+        "size": "264.3 KB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-23.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-23.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x-24",
+        "type": "image/png",
+        "size": "1.03 MB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x-24.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x-24.webp"
+      },
+      {
+        "name": "google-pixel-2-pixel2-walls-area39-x",
+        "type": "image/png",
+        "size": "664.62 KB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-pixel2-walls-area39-x.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-pixel2-walls-area39-x.webp"
+      },
+      {
+        "name": "google-pixel-2-reshad-20abd-2013-2010-202017-01",
+        "type": "image/png",
+        "size": "3.52 MB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-reshad-20abd-2013-2010-202017-01.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-reshad-20abd-2013-2010-202017-01.webp"
+      },
+      {
+        "name": "google-pixel-2-reshad-20abd-2013-2010-202017-02",
+        "type": "image/png",
+        "size": "3.07 MB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-reshad-20abd-2013-2010-202017-02.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-reshad-20abd-2013-2010-202017-02.webp"
+      },
+      {
+        "name": "google-pixel-2-reshad-20abd-2013-2010-202017",
+        "type": "image/png",
+        "size": "2.99 MB",
+        "originPath": "google pixel/Google Pixel 2/origin/google-pixel-2-reshad-20abd-2013-2010-202017.png",
+        "compressPath": "google pixel/Google Pixel 2/compress/google-pixel-2-reshad-20abd-2013-2010-202017.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 3",
+    "date": "2018/10",
+    "item": [
+      {
+        "name": "google-pixel-3-beige-teal-gradient",
+        "type": "image/png",
+        "size": "2.08 MB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-beige-teal-gradient.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-beige-teal-gradient.webp"
+      },
+      {
+        "name": "google-pixel-3-beige-white-gradient",
+        "type": "image/png",
+        "size": "212.62 KB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-beige-white-gradient.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-beige-white-gradient.webp"
+      },
+      {
+        "name": "google-pixel-3-black-gradient-01",
+        "type": "image/png",
+        "size": "958.78 KB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-black-gradient-01.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-black-gradient-01.webp"
+      },
+      {
+        "name": "google-pixel-3-black-gradient",
+        "type": "image/png",
+        "size": "976.18 KB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-black-gradient.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-black-gradient.webp"
+      },
+      {
+        "name": "google-pixel-3-black-gray-gradient-01",
+        "type": "image/png",
+        "size": "946.11 KB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-black-gray-gradient-01.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-black-gray-gradient-01.webp"
+      },
+      {
+        "name": "google-pixel-3-black-gray-gradient-02",
+        "type": "image/png",
+        "size": "916.88 KB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-black-gray-gradient-02.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-black-gray-gradient-02.webp"
+      },
+      {
+        "name": "google-pixel-3-black-gray-gradient",
+        "type": "image/png",
+        "size": "902.05 KB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-black-gray-gradient.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-black-gray-gradient.webp"
+      },
+      {
+        "name": "google-pixel-3-black-purple-gradient",
+        "type": "image/png",
+        "size": "2.01 MB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-black-purple-gradient.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-black-purple-gradient.webp"
+      },
+      {
+        "name": "google-pixel-3-blue-beige-gradient",
+        "type": "image/png",
+        "size": "2.04 MB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-blue-beige-gradient.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-blue-beige-gradient.webp"
+      },
+      {
+        "name": "google-pixel-3-blue-rose-gradient",
+        "type": "image/png",
+        "size": "1023.26 KB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-blue-rose-gradient.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-blue-rose-gradient.webp"
+      },
+      {
+        "name": "google-pixel-3-blue-silver-gradient",
+        "type": "image/png",
+        "size": "1.3 MB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-blue-silver-gradient.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-blue-silver-gradient.webp"
+      },
+      {
+        "name": "google-pixel-3-brown-black-photo",
+        "type": "image/png",
+        "size": "3.64 MB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-brown-black-photo.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-brown-black-photo.webp"
+      },
+      {
+        "name": "google-pixel-3-pink-beige-abstract",
+        "type": "image/png",
+        "size": "1.7 MB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-pink-beige-abstract.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-pink-beige-abstract.webp"
+      },
+      {
+        "name": "google-pixel-3-pink-beige-gradient",
+        "type": "image/png",
+        "size": "2.17 MB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-pink-beige-gradient.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-pink-beige-gradient.webp"
+      },
+      {
+        "name": "google-pixel-3-purple-rose-gradient",
+        "type": "image/png",
+        "size": "2.02 MB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-purple-rose-gradient.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-purple-rose-gradient.webp"
+      },
+      {
+        "name": "google-pixel-3-silver-beige-pattern",
+        "type": "image/png",
+        "size": "3.56 MB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-silver-beige-pattern.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-silver-beige-pattern.webp"
+      },
+      {
+        "name": "google-pixel-3-silver-blue-gradient",
+        "type": "image/png",
+        "size": "2.06 MB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-silver-blue-gradient.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-silver-blue-gradient.webp"
+      },
+      {
+        "name": "google-pixel-3-silver-gray-gradient",
+        "type": "image/png",
+        "size": "919.22 KB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-silver-gray-gradient.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-silver-gray-gradient.webp"
+      },
+      {
+        "name": "google-pixel-3-silver-white-abstract",
+        "type": "image/png",
+        "size": "446.14 KB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-silver-white-abstract.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-silver-white-abstract.webp"
+      },
+      {
+        "name": "google-pixel-3-silver-white-gradient",
+        "type": "image/png",
+        "size": "369.28 KB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-silver-white-gradient.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-silver-white-gradient.webp"
+      },
+      {
+        "name": "google-pixel-3-silver-white-photo",
+        "type": "image/png",
+        "size": "712.82 KB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-silver-white-photo.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-silver-white-photo.webp"
+      },
+      {
+        "name": "google-pixel-3-tactile-v11-preview",
+        "type": "image/png",
+        "size": "975.18 KB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-tactile-v11-preview.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-tactile-v11-preview.webp"
+      },
+      {
+        "name": "google-pixel-3-tactile-v12-preview",
+        "type": "image/png",
+        "size": "878.1 KB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-tactile-v12-preview.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-tactile-v12-preview.webp"
+      },
+      {
+        "name": "google-pixel-3-teal-cyan-abstract",
+        "type": "image/png",
+        "size": "2.98 MB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-teal-cyan-abstract.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-teal-cyan-abstract.webp"
+      },
+      {
+        "name": "google-pixel-3-teal-gray-gradient",
+        "type": "image/png",
+        "size": "1.26 MB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-teal-gray-gradient.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-teal-gray-gradient.webp"
+      },
+      {
+        "name": "google-pixel-3-utah-preview",
+        "type": "image/png",
+        "size": "3.46 MB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-utah-preview.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-utah-preview.webp"
+      },
+      {
+        "name": "google-pixel-3-white-gradient",
+        "type": "image/png",
+        "size": "170.84 KB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-white-gradient.png",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-white-gradient.webp"
+      },
+      {
+        "name": "google-pixel-3-white-silver-gradient",
+        "type": "image/jpeg",
+        "size": "46.6 KB",
+        "originPath": "google pixel/Google Pixel 3/origin/google-pixel-3-white-silver-gradient.jpg",
+        "compressPath": "google pixel/Google Pixel 3/compress/google-pixel-3-white-silver-gradient.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 3 Promotional",
+    "date": "2018/10",
+    "item": [
+      {
+        "name": "google-pixel-3-promotional-black-brown-gradient-01",
+        "type": "image/png",
+        "size": "60.99 KB",
+        "originPath": "google pixel/Google Pixel 3 Promotional/origin/google-pixel-3-promotional-black-brown-gradient-01.png",
+        "compressPath": "google pixel/Google Pixel 3 Promotional/compress/google-pixel-3-promotional-black-brown-gradient-01.webp"
+      },
+      {
+        "name": "google-pixel-3-promotional-black-brown-gradient",
+        "type": "image/png",
+        "size": "60.99 KB",
+        "originPath": "google pixel/Google Pixel 3 Promotional/origin/google-pixel-3-promotional-black-brown-gradient.png",
+        "compressPath": "google pixel/Google Pixel 3 Promotional/compress/google-pixel-3-promotional-black-brown-gradient.webp"
+      },
+      {
+        "name": "google-pixel-3-promotional-white-beige-gradient-01",
+        "type": "image/png",
+        "size": "59.94 KB",
+        "originPath": "google pixel/Google Pixel 3 Promotional/origin/google-pixel-3-promotional-white-beige-gradient-01.png",
+        "compressPath": "google pixel/Google Pixel 3 Promotional/compress/google-pixel-3-promotional-white-beige-gradient-01.webp"
+      },
+      {
+        "name": "google-pixel-3-promotional-white-beige-gradient",
+        "type": "image/png",
+        "size": "59.94 KB",
+        "originPath": "google pixel/Google Pixel 3 Promotional/origin/google-pixel-3-promotional-white-beige-gradient.png",
+        "compressPath": "google pixel/Google Pixel 3 Promotional/compress/google-pixel-3-promotional-white-beige-gradient.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 3a",
+    "date": "2019/05",
+    "item": [
+      {
+        "name": "google-pixel-3a-black-blue-gradient",
+        "type": "image/png",
+        "size": "4.97 MB",
+        "originPath": "google pixel/Google Pixel 3a/origin/google-pixel-3a-black-blue-gradient.png",
+        "compressPath": "google pixel/Google Pixel 3a/compress/google-pixel-3a-black-blue-gradient.webp"
+      },
+      {
+        "name": "google-pixel-3a-black-gradient",
+        "type": "image/png",
+        "size": "2.69 MB",
+        "originPath": "google pixel/Google Pixel 3a/origin/google-pixel-3a-black-gradient.png",
+        "compressPath": "google pixel/Google Pixel 3a/compress/google-pixel-3a-black-gradient.webp"
+      },
+      {
+        "name": "google-pixel-3a-black-gray-abstract",
+        "type": "image/png",
+        "size": "2.66 MB",
+        "originPath": "google pixel/Google Pixel 3a/origin/google-pixel-3a-black-gray-abstract.png",
+        "compressPath": "google pixel/Google Pixel 3a/compress/google-pixel-3a-black-gray-abstract.webp"
+      },
+      {
+        "name": "google-pixel-3a-blue-beige-gradient",
+        "type": "image/jpeg",
+        "size": "52.21 KB",
+        "originPath": "google pixel/Google Pixel 3a/origin/google-pixel-3a-blue-beige-gradient.jpg",
+        "compressPath": "google pixel/Google Pixel 3a/compress/google-pixel-3a-blue-beige-gradient.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 4",
+    "date": "2019/10",
+    "item": [
+      {
+        "name": "google-pixel-4-black-brown-gradient-01",
+        "type": "image/png",
+        "size": "60.26 KB",
+        "originPath": "google pixel/Google Pixel 4/origin/google-pixel-4-black-brown-gradient-01.png",
+        "compressPath": "google pixel/Google Pixel 4/compress/google-pixel-4-black-brown-gradient-01.webp"
+      },
+      {
+        "name": "google-pixel-4-black-brown-gradient",
+        "type": "image/png",
+        "size": "54.98 KB",
+        "originPath": "google pixel/Google Pixel 4/origin/google-pixel-4-black-brown-gradient.png",
+        "compressPath": "google pixel/Google Pixel 4/compress/google-pixel-4-black-brown-gradient.webp"
+      },
+      {
+        "name": "google-pixel-4-black-gradient",
+        "type": "image/png",
+        "size": "1.03 MB",
+        "originPath": "google pixel/Google Pixel 4/origin/google-pixel-4-black-gradient.png",
+        "compressPath": "google pixel/Google Pixel 4/compress/google-pixel-4-black-gradient.webp"
+      },
+      {
+        "name": "google-pixel-4-black-silver-gradient",
+        "type": "image/png",
+        "size": "27 KB",
+        "originPath": "google pixel/Google Pixel 4/origin/google-pixel-4-black-silver-gradient.png",
+        "compressPath": "google pixel/Google Pixel 4/compress/google-pixel-4-black-silver-gradient.webp"
+      },
+      {
+        "name": "google-pixel-4-brown-black-gradient",
+        "type": "image/png",
+        "size": "88.5 KB",
+        "originPath": "google pixel/Google Pixel 4/origin/google-pixel-4-brown-black-gradient.png",
+        "compressPath": "google pixel/Google Pixel 4/compress/google-pixel-4-brown-black-gradient.webp"
+      },
+      {
+        "name": "google-pixel-4-garden-v1-preview",
+        "type": "image/png",
+        "size": "128.01 KB",
+        "originPath": "google pixel/Google Pixel 4/origin/google-pixel-4-garden-v1-preview.png",
+        "compressPath": "google pixel/Google Pixel 4/compress/google-pixel-4-garden-v1-preview.webp"
+      },
+      {
+        "name": "google-pixel-4-garden-v2-preview",
+        "type": "image/png",
+        "size": "106.62 KB",
+        "originPath": "google pixel/Google Pixel 4/origin/google-pixel-4-garden-v2-preview.png",
+        "compressPath": "google pixel/Google Pixel 4/compress/google-pixel-4-garden-v2-preview.webp"
+      },
+      {
+        "name": "google-pixel-4-garden-v3-preview",
+        "type": "image/png",
+        "size": "117.86 KB",
+        "originPath": "google pixel/Google Pixel 4/origin/google-pixel-4-garden-v3-preview.png",
+        "compressPath": "google pixel/Google Pixel 4/compress/google-pixel-4-garden-v3-preview.webp"
+      },
+      {
+        "name": "google-pixel-4-mint-teal-abstract",
+        "type": "image/png",
+        "size": "102.95 KB",
+        "originPath": "google pixel/Google Pixel 4/origin/google-pixel-4-mint-teal-abstract.png",
+        "compressPath": "google pixel/Google Pixel 4/compress/google-pixel-4-mint-teal-abstract.webp"
+      },
+      {
+        "name": "google-pixel-4-rose-beige-gradient",
+        "type": "image/png",
+        "size": "26.56 KB",
+        "originPath": "google pixel/Google Pixel 4/origin/google-pixel-4-rose-beige-gradient.png",
+        "compressPath": "google pixel/Google Pixel 4/compress/google-pixel-4-rose-beige-gradient.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 4 XL",
+    "date": "2019/10",
+    "item": [
+      {
+        "name": "google-pixel-4-xl-arabia-preview",
+        "type": "image/png",
+        "size": "2.68 MB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-arabia-preview.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-arabia-preview.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-black-cinnamon",
+        "type": "image/png",
+        "size": "283.16 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-black-cinnamon.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-black-cinnamon.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-black-dark",
+        "type": "image/png",
+        "size": "171.03 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-black-dark.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-black-dark.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-black-gray-gradient",
+        "type": "image/png",
+        "size": "170.25 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-black-gray-gradient.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-black-gray-gradient.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-black-green",
+        "type": "image/png",
+        "size": "283.38 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-black-green.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-black-green.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-black-ocean",
+        "type": "image/png",
+        "size": "283.04 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-black-ocean.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-black-ocean.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-black-orchid",
+        "type": "image/png",
+        "size": "283.72 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-black-orchid.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-black-orchid.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-black-purple",
+        "type": "image/png",
+        "size": "283.2 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-black-purple.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-black-purple.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-black-space",
+        "type": "image/png",
+        "size": "282.75 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-black-space.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-black-space.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-black-white",
+        "type": "image/png",
+        "size": "283.76 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-black-white.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-black-white.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-black",
+        "type": "image/png",
+        "size": "282.79 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-black.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-black.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-cinnamon-dark",
+        "type": "image/png",
+        "size": "171.63 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-cinnamon-dark.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-cinnamon-dark.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-compass-v1-preview",
+        "type": "image/png",
+        "size": "209.23 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-compass-v1-preview.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-compass-v1-preview.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-doodle-v1-white",
+        "type": "image/png",
+        "size": "70.23 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-doodle-v1-white.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-doodle-v1-white.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-green-dark",
+        "type": "image/png",
+        "size": "171.3 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-green-dark.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-green-dark.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-ocean-dark",
+        "type": "image/png",
+        "size": "170.32 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-ocean-dark.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-ocean-dark.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-orchid-dark",
+        "type": "image/png",
+        "size": "171.05 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-orchid-dark.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-orchid-dark.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-purple-dark",
+        "type": "image/png",
+        "size": "170.93 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-purple-dark.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-purple-dark.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-sights-v1-preview",
+        "type": "image/png",
+        "size": "30.26 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-sights-v1-preview.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-sights-v1-preview.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-space-dark",
+        "type": "image/png",
+        "size": "170.6 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-space-dark.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-space-dark.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-switzerland-preview",
+        "type": "image/png",
+        "size": "3.69 MB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-switzerland-preview.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-switzerland-preview.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-uluru-preview",
+        "type": "image/png",
+        "size": "1.83 MB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-uluru-preview.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-uluru-preview.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-white-01",
+        "type": "image/png",
+        "size": "124.59 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-white-01.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-white-01.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-white-black",
+        "type": "image/png",
+        "size": "128.61 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-white-black.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-white-black.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-white-cinnamon",
+        "type": "image/png",
+        "size": "126.85 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-white-cinnamon.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-white-cinnamon.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-white-dark",
+        "type": "image/png",
+        "size": "170.55 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-white-dark.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-white-dark.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-white-green",
+        "type": "image/png",
+        "size": "127.19 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-white-green.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-white-green.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-white-ocean",
+        "type": "image/png",
+        "size": "126.28 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-white-ocean.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-white-ocean.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-white-orchid",
+        "type": "image/png",
+        "size": "126.14 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-white-orchid.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-white-orchid.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-white-purple",
+        "type": "image/png",
+        "size": "126.18 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-white-purple.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-white-purple.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-white-space",
+        "type": "image/png",
+        "size": "127.02 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-white-space.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-white-space.webp"
+      },
+      {
+        "name": "google-pixel-4-xl-white",
+        "type": "image/png",
+        "size": "126.91 KB",
+        "originPath": "google pixel/Google Pixel 4 XL/origin/google-pixel-4-xl-white.png",
+        "compressPath": "google pixel/Google Pixel 4 XL/compress/google-pixel-4-xl-white.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 4a",
+    "date": "2020/08",
+    "item": [
+      {
+        "name": "google-pixel-4a-5g-expected",
+        "type": "image/png",
+        "size": "5.18 MB",
+        "originPath": "google pixel/Google Pixel 4a/origin/google-pixel-4a-5g-expected.png",
+        "compressPath": "google pixel/Google Pixel 4a/compress/google-pixel-4a-5g-expected.webp"
+      },
+      {
+        "name": "google-pixel-4a-beige-blue-photo",
+        "type": "image/jpeg",
+        "size": "825.24 KB",
+        "originPath": "google pixel/Google Pixel 4a/origin/google-pixel-4a-beige-blue-photo.jpg",
+        "compressPath": "google pixel/Google Pixel 4a/compress/google-pixel-4a-beige-blue-photo.webp"
+      },
+      {
+        "name": "google-pixel-4a-beige-rose-abstract",
+        "type": "image/jpeg",
+        "size": "797.48 KB",
+        "originPath": "google pixel/Google Pixel 4a/origin/google-pixel-4a-beige-rose-abstract.jpg",
+        "compressPath": "google pixel/Google Pixel 4a/compress/google-pixel-4a-beige-rose-abstract.webp"
+      },
+      {
+        "name": "google-pixel-4a-black-gold-abstract",
+        "type": "image/jpeg",
+        "size": "112.87 KB",
+        "originPath": "google pixel/Google Pixel 4a/origin/google-pixel-4a-black-gold-abstract.jpg",
+        "compressPath": "google pixel/Google Pixel 4a/compress/google-pixel-4a-black-gold-abstract.webp"
+      },
+      {
+        "name": "google-pixel-4a-blue-black-abstract",
+        "type": "image/jpeg",
+        "size": "487.17 KB",
+        "originPath": "google pixel/Google Pixel 4a/origin/google-pixel-4a-blue-black-abstract.jpg",
+        "compressPath": "google pixel/Google Pixel 4a/compress/google-pixel-4a-blue-black-abstract.webp"
+      },
+      {
+        "name": "google-pixel-4a-blue-gold-abstract",
+        "type": "image/jpeg",
+        "size": "1.35 MB",
+        "originPath": "google pixel/Google Pixel 4a/origin/google-pixel-4a-blue-gold-abstract.jpg",
+        "compressPath": "google pixel/Google Pixel 4a/compress/google-pixel-4a-blue-gold-abstract.webp"
+      },
+      {
+        "name": "google-pixel-4a-blue-orange-abstract",
+        "type": "image/jpeg",
+        "size": "276.13 KB",
+        "originPath": "google pixel/Google Pixel 4a/origin/google-pixel-4a-blue-orange-abstract.jpg",
+        "compressPath": "google pixel/Google Pixel 4a/compress/google-pixel-4a-blue-orange-abstract.webp"
+      },
+      {
+        "name": "google-pixel-4a-green-mint-abstract",
+        "type": "image/jpeg",
+        "size": "328.6 KB",
+        "originPath": "google pixel/Google Pixel 4a/origin/google-pixel-4a-green-mint-abstract.jpg",
+        "compressPath": "google pixel/Google Pixel 4a/compress/google-pixel-4a-green-mint-abstract.webp"
+      },
+      {
+        "name": "google-pixel-4a-green-white-abstract",
+        "type": "image/jpeg",
+        "size": "917.32 KB",
+        "originPath": "google pixel/Google Pixel 4a/origin/google-pixel-4a-green-white-abstract.jpg",
+        "compressPath": "google pixel/Google Pixel 4a/compress/google-pixel-4a-green-white-abstract.webp"
+      },
+      {
+        "name": "google-pixel-4a-green-yellow-abstract",
+        "type": "image/jpeg",
+        "size": "189.8 KB",
+        "originPath": "google pixel/Google Pixel 4a/origin/google-pixel-4a-green-yellow-abstract.jpg",
+        "compressPath": "google pixel/Google Pixel 4a/compress/google-pixel-4a-green-yellow-abstract.webp"
+      },
+      {
+        "name": "google-pixel-4a-orange-gold-abstract",
+        "type": "image/jpeg",
+        "size": "1.33 MB",
+        "originPath": "google pixel/Google Pixel 4a/origin/google-pixel-4a-orange-gold-abstract.jpg",
+        "compressPath": "google pixel/Google Pixel 4a/compress/google-pixel-4a-orange-gold-abstract.webp"
+      },
+      {
+        "name": "google-pixel-4a-red-teal-abstract-01",
+        "type": "image/jpeg",
+        "size": "567.02 KB",
+        "originPath": "google pixel/Google Pixel 4a/origin/google-pixel-4a-red-teal-abstract-01.jpg",
+        "compressPath": "google pixel/Google Pixel 4a/compress/google-pixel-4a-red-teal-abstract-01.webp"
+      },
+      {
+        "name": "google-pixel-4a-red-teal-abstract",
+        "type": "image/jpeg",
+        "size": "1.15 MB",
+        "originPath": "google pixel/Google Pixel 4a/origin/google-pixel-4a-red-teal-abstract.jpg",
+        "compressPath": "google pixel/Google Pixel 4a/compress/google-pixel-4a-red-teal-abstract.webp"
+      },
+      {
+        "name": "google-pixel-4a-red-white-abstract",
+        "type": "image/jpeg",
+        "size": "387.44 KB",
+        "originPath": "google pixel/Google Pixel 4a/origin/google-pixel-4a-red-white-abstract.jpg",
+        "compressPath": "google pixel/Google Pixel 4a/compress/google-pixel-4a-red-white-abstract.webp"
+      },
+      {
+        "name": "google-pixel-4a-white-black-abstract",
+        "type": "image/jpeg",
+        "size": "274.05 KB",
+        "originPath": "google pixel/Google Pixel 4a/origin/google-pixel-4a-white-black-abstract.jpg",
+        "compressPath": "google pixel/Google Pixel 4a/compress/google-pixel-4a-white-black-abstract.webp"
+      },
+      {
+        "name": "google-pixel-4a-white-blue-abstract",
+        "type": "image/jpeg",
+        "size": "378.16 KB",
+        "originPath": "google pixel/Google Pixel 4a/origin/google-pixel-4a-white-blue-abstract.jpg",
+        "compressPath": "google pixel/Google Pixel 4a/compress/google-pixel-4a-white-blue-abstract.webp"
+      },
+      {
+        "name": "google-pixel-4a-white-brown-pattern",
+        "type": "image/jpeg",
+        "size": "797.28 KB",
+        "originPath": "google pixel/Google Pixel 4a/origin/google-pixel-4a-white-brown-pattern.jpg",
+        "compressPath": "google pixel/Google Pixel 4a/compress/google-pixel-4a-white-brown-pattern.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 5",
+    "date": "2020/10",
+    "item": [
+      {
+        "name": "google-pixel-5-beige-black-abstract",
+        "type": "image/png",
+        "size": "517.99 KB",
+        "originPath": "google pixel/Google Pixel 5/origin/google-pixel-5-beige-black-abstract.png",
+        "compressPath": "google pixel/Google Pixel 5/compress/google-pixel-5-beige-black-abstract.webp"
+      },
+      {
+        "name": "google-pixel-5-black-brown-abstract",
+        "type": "image/jpeg",
+        "size": "113.32 KB",
+        "originPath": "google pixel/Google Pixel 5/origin/google-pixel-5-black-brown-abstract.jpg",
+        "compressPath": "google pixel/Google Pixel 5/compress/google-pixel-5-black-brown-abstract.webp"
+      },
+      {
+        "name": "google-pixel-5-black-silver-gradient",
+        "type": "image/png",
+        "size": "930.17 KB",
+        "originPath": "google pixel/Google Pixel 5/origin/google-pixel-5-black-silver-gradient.png",
+        "compressPath": "google pixel/Google Pixel 5/compress/google-pixel-5-black-silver-gradient.webp"
+      },
+      {
+        "name": "google-pixel-5-black-silver-photo",
+        "type": "image/jpeg",
+        "size": "271.23 KB",
+        "originPath": "google pixel/Google Pixel 5/origin/google-pixel-5-black-silver-photo.jpg",
+        "compressPath": "google pixel/Google Pixel 5/compress/google-pixel-5-black-silver-photo.webp"
+      },
+      {
+        "name": "google-pixel-5-blue-beige-pattern",
+        "type": "image/png",
+        "size": "713.19 KB",
+        "originPath": "google pixel/Google Pixel 5/origin/google-pixel-5-blue-beige-pattern.png",
+        "compressPath": "google pixel/Google Pixel 5/compress/google-pixel-5-blue-beige-pattern.webp"
+      },
+      {
+        "name": "google-pixel-5-blue-gold-abstract",
+        "type": "image/png",
+        "size": "2.79 MB",
+        "originPath": "google pixel/Google Pixel 5/origin/google-pixel-5-blue-gold-abstract.png",
+        "compressPath": "google pixel/Google Pixel 5/compress/google-pixel-5-blue-gold-abstract.webp"
+      },
+      {
+        "name": "google-pixel-5-blue-orange-abstract",
+        "type": "image/png",
+        "size": "326.78 KB",
+        "originPath": "google pixel/Google Pixel 5/origin/google-pixel-5-blue-orange-abstract.png",
+        "compressPath": "google pixel/Google Pixel 5/compress/google-pixel-5-blue-orange-abstract.webp"
+      },
+      {
+        "name": "google-pixel-5-blue-red-abstract",
+        "type": "image/png",
+        "size": "358.46 KB",
+        "originPath": "google pixel/Google Pixel 5/origin/google-pixel-5-blue-red-abstract.png",
+        "compressPath": "google pixel/Google Pixel 5/compress/google-pixel-5-blue-red-abstract.webp"
+      },
+      {
+        "name": "google-pixel-5-blue-rose-pattern",
+        "type": "image/png",
+        "size": "1.05 MB",
+        "originPath": "google pixel/Google Pixel 5/origin/google-pixel-5-blue-rose-pattern.png",
+        "compressPath": "google pixel/Google Pixel 5/compress/google-pixel-5-blue-rose-pattern.webp"
+      },
+      {
+        "name": "google-pixel-5-gray-brown-photo",
+        "type": "image/jpeg",
+        "size": "308.08 KB",
+        "originPath": "google pixel/Google Pixel 5/origin/google-pixel-5-gray-brown-photo.jpg",
+        "compressPath": "google pixel/Google Pixel 5/compress/google-pixel-5-gray-brown-photo.webp"
+      },
+      {
+        "name": "google-pixel-5-mint-beige-gradient",
+        "type": "image/png",
+        "size": "3.27 MB",
+        "originPath": "google pixel/Google Pixel 5/origin/google-pixel-5-mint-beige-gradient.png",
+        "compressPath": "google pixel/Google Pixel 5/compress/google-pixel-5-mint-beige-gradient.webp"
+      },
+      {
+        "name": "google-pixel-5-orange-gray-pattern",
+        "type": "image/png",
+        "size": "607.28 KB",
+        "originPath": "google pixel/Google Pixel 5/origin/google-pixel-5-orange-gray-pattern.png",
+        "compressPath": "google pixel/Google Pixel 5/compress/google-pixel-5-orange-gray-pattern.webp"
+      },
+      {
+        "name": "google-pixel-5-red-black-abstract",
+        "type": "image/jpeg",
+        "size": "106.75 KB",
+        "originPath": "google pixel/Google Pixel 5/origin/google-pixel-5-red-black-abstract.jpg",
+        "compressPath": "google pixel/Google Pixel 5/compress/google-pixel-5-red-black-abstract.webp"
+      },
+      {
+        "name": "google-pixel-5-red-gray-photo",
+        "type": "image/png",
+        "size": "3.3 MB",
+        "originPath": "google pixel/Google Pixel 5/origin/google-pixel-5-red-gray-photo.png",
+        "compressPath": "google pixel/Google Pixel 5/compress/google-pixel-5-red-gray-photo.webp"
+      },
+      {
+        "name": "google-pixel-5-rose-gray-photo",
+        "type": "image/png",
+        "size": "3.15 MB",
+        "originPath": "google pixel/Google Pixel 5/origin/google-pixel-5-rose-gray-photo.png",
+        "compressPath": "google pixel/Google Pixel 5/compress/google-pixel-5-rose-gray-photo.webp"
+      },
+      {
+        "name": "google-pixel-5-teal-black-abstract",
+        "type": "image/png",
+        "size": "2.87 MB",
+        "originPath": "google pixel/Google Pixel 5/origin/google-pixel-5-teal-black-abstract.png",
+        "compressPath": "google pixel/Google Pixel 5/compress/google-pixel-5-teal-black-abstract.webp"
+      },
+      {
+        "name": "google-pixel-5-teal-silver-abstract",
+        "type": "image/png",
+        "size": "1.71 MB",
+        "originPath": "google pixel/Google Pixel 5/origin/google-pixel-5-teal-silver-abstract.png",
+        "compressPath": "google pixel/Google Pixel 5/compress/google-pixel-5-teal-silver-abstract.webp"
+      },
+      {
+        "name": "google-pixel-5-white-gray-photo",
+        "type": "image/png",
+        "size": "2.72 MB",
+        "originPath": "google pixel/Google Pixel 5/origin/google-pixel-5-white-gray-photo.png",
+        "compressPath": "google pixel/Google Pixel 5/compress/google-pixel-5-white-gray-photo.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 5a",
+    "date": "2021/08",
+    "item": [
+      {
+        "name": "google-pixel-5a-black-blue-abstract",
+        "type": "image/png",
+        "size": "563.51 KB",
+        "originPath": "google pixel/Google Pixel 5a/origin/google-pixel-5a-black-blue-abstract.png",
+        "compressPath": "google pixel/Google Pixel 5a/compress/google-pixel-5a-black-blue-abstract.webp"
+      },
+      {
+        "name": "google-pixel-5a-love",
+        "type": "image/png",
+        "size": "3.1 MB",
+        "originPath": "google pixel/Google Pixel 5a/origin/google-pixel-5a-love.png",
+        "compressPath": "google pixel/Google Pixel 5a/compress/google-pixel-5a-love.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 6",
+    "date": "2021/10",
+    "item": [
+      {
+        "name": "google-pixel-6-beige-cyan-abstract",
+        "type": "image/png",
+        "size": "3.56 MB",
+        "originPath": "google pixel/Google Pixel 6/origin/google-pixel-6-beige-cyan-abstract.png",
+        "compressPath": "google pixel/Google Pixel 6/compress/google-pixel-6-beige-cyan-abstract.webp"
+      },
+      {
+        "name": "google-pixel-6-beige-green-abstract",
+        "type": "image/png",
+        "size": "3.59 MB",
+        "originPath": "google pixel/Google Pixel 6/origin/google-pixel-6-beige-green-abstract.png",
+        "compressPath": "google pixel/Google Pixel 6/compress/google-pixel-6-beige-green-abstract.webp"
+      },
+      {
+        "name": "google-pixel-6-beige-silver-abstract",
+        "type": "image/png",
+        "size": "2.83 MB",
+        "originPath": "google pixel/Google Pixel 6/origin/google-pixel-6-beige-silver-abstract.png",
+        "compressPath": "google pixel/Google Pixel 6/compress/google-pixel-6-beige-silver-abstract.webp"
+      },
+      {
+        "name": "google-pixel-6-blue-purple-abstract",
+        "type": "image/png",
+        "size": "3.81 MB",
+        "originPath": "google pixel/Google Pixel 6/origin/google-pixel-6-blue-purple-abstract.png",
+        "compressPath": "google pixel/Google Pixel 6/compress/google-pixel-6-blue-purple-abstract.webp"
+      },
+      {
+        "name": "google-pixel-6-brown-purple-abstract",
+        "type": "image/png",
+        "size": "3.66 MB",
+        "originPath": "google pixel/Google Pixel 6/origin/google-pixel-6-brown-purple-abstract.png",
+        "compressPath": "google pixel/Google Pixel 6/compress/google-pixel-6-brown-purple-abstract.webp"
+      },
+      {
+        "name": "google-pixel-6-gold-rose-abstract",
+        "type": "image/png",
+        "size": "1.82 MB",
+        "originPath": "google pixel/Google Pixel 6/origin/google-pixel-6-gold-rose-abstract.png",
+        "compressPath": "google pixel/Google Pixel 6/compress/google-pixel-6-gold-rose-abstract.webp"
+      },
+      {
+        "name": "google-pixel-6-gray-beige-abstract",
+        "type": "image/png",
+        "size": "1.83 MB",
+        "originPath": "google pixel/Google Pixel 6/origin/google-pixel-6-gray-beige-abstract.png",
+        "compressPath": "google pixel/Google Pixel 6/compress/google-pixel-6-gray-beige-abstract.webp"
+      },
+      {
+        "name": "google-pixel-6-gray-silver-abstract",
+        "type": "image/png",
+        "size": "2.2 MB",
+        "originPath": "google pixel/Google Pixel 6/origin/google-pixel-6-gray-silver-abstract.png",
+        "compressPath": "google pixel/Google Pixel 6/compress/google-pixel-6-gray-silver-abstract.webp"
+      },
+      {
+        "name": "google-pixel-6-red-brown-abstract",
+        "type": "image/png",
+        "size": "1.17 MB",
+        "originPath": "google pixel/Google Pixel 6/origin/google-pixel-6-red-brown-abstract.png",
+        "compressPath": "google pixel/Google Pixel 6/compress/google-pixel-6-red-brown-abstract.webp"
+      },
+      {
+        "name": "google-pixel-6-rose-brown-abstract",
+        "type": "image/png",
+        "size": "1.88 MB",
+        "originPath": "google pixel/Google Pixel 6/origin/google-pixel-6-rose-brown-abstract.png",
+        "compressPath": "google pixel/Google Pixel 6/compress/google-pixel-6-rose-brown-abstract.webp"
+      },
+      {
+        "name": "google-pixel-6-white-gold-abstract",
+        "type": "image/png",
+        "size": "1.95 MB",
+        "originPath": "google pixel/Google Pixel 6/origin/google-pixel-6-white-gold-abstract.png",
+        "compressPath": "google pixel/Google Pixel 6/compress/google-pixel-6-white-gold-abstract.webp"
+      },
+      {
+        "name": "google-pixel-6-white-silver-gradient",
+        "type": "image/png",
+        "size": "2.93 MB",
+        "originPath": "google pixel/Google Pixel 6/origin/google-pixel-6-white-silver-gradient.png",
+        "compressPath": "google pixel/Google Pixel 6/compress/google-pixel-6-white-silver-gradient.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 6 Pro",
+    "date": "2021/10",
+    "item": [
+      {
+        "name": "google-pixel-6-pro-blk",
+        "type": "image/png",
+        "size": "2.6 MB",
+        "originPath": "google pixel/Google Pixel 6 Pro/origin/google-pixel-6-pro-blk.png",
+        "compressPath": "google pixel/Google Pixel 6 Pro/compress/google-pixel-6-pro-blk.webp"
+      },
+      {
+        "name": "google-pixel-6-pro-cattleya-orchid-by-andrew-zuckerman-dark",
+        "type": "image/png",
+        "size": "3.63 MB",
+        "originPath": "google pixel/Google Pixel 6 Pro/origin/google-pixel-6-pro-cattleya-orchid-by-andrew-zuckerman-dark.png",
+        "compressPath": "google pixel/Google Pixel 6 Pro/compress/google-pixel-6-pro-cattleya-orchid-by-andrew-zuckerman-dark.webp"
+      },
+      {
+        "name": "google-pixel-6-pro-cattleya-orchid-by-andrew-zuckerman-light",
+        "type": "image/png",
+        "size": "4.14 MB",
+        "originPath": "google pixel/Google Pixel 6 Pro/origin/google-pixel-6-pro-cattleya-orchid-by-andrew-zuckerman-light.png",
+        "compressPath": "google pixel/Google Pixel 6 Pro/compress/google-pixel-6-pro-cattleya-orchid-by-andrew-zuckerman-light.webp"
+      },
+      {
+        "name": "google-pixel-6-pro-echeveria-blue-prince-by-andrew-zuckerman-01",
+        "type": "image/png",
+        "size": "2.05 MB",
+        "originPath": "google pixel/Google Pixel 6 Pro/origin/google-pixel-6-pro-echeveria-blue-prince-by-andrew-zuckerman-01.png",
+        "compressPath": "google pixel/Google Pixel 6 Pro/compress/google-pixel-6-pro-echeveria-blue-prince-by-andrew-zuckerman-01.webp"
+      },
+      {
+        "name": "google-pixel-6-pro-echeveria-blue-prince-by-andrew-zuckerman",
+        "type": "image/png",
+        "size": "1.97 MB",
+        "originPath": "google pixel/Google Pixel 6 Pro/origin/google-pixel-6-pro-echeveria-blue-prince-by-andrew-zuckerman.png",
+        "compressPath": "google pixel/Google Pixel 6 Pro/compress/google-pixel-6-pro-echeveria-blue-prince-by-andrew-zuckerman.webp"
+      },
+      {
+        "name": "google-pixel-6-pro-gld",
+        "type": "image/png",
+        "size": "3.91 MB",
+        "originPath": "google pixel/Google Pixel 6 Pro/origin/google-pixel-6-pro-gld.png",
+        "compressPath": "google pixel/Google Pixel 6 Pro/compress/google-pixel-6-pro-gld.webp"
+      },
+      {
+        "name": "google-pixel-6-pro-hellebores-by-andrew-zuckerman-dark",
+        "type": "image/png",
+        "size": "6.38 MB",
+        "originPath": "google pixel/Google Pixel 6 Pro/origin/google-pixel-6-pro-hellebores-by-andrew-zuckerman-dark.png",
+        "compressPath": "google pixel/Google Pixel 6 Pro/compress/google-pixel-6-pro-hellebores-by-andrew-zuckerman-dark.webp"
+      },
+      {
+        "name": "google-pixel-6-pro-hellebores-by-andrew-zuckerman-light",
+        "type": "image/png",
+        "size": "6.48 MB",
+        "originPath": "google pixel/Google Pixel 6 Pro/origin/google-pixel-6-pro-hellebores-by-andrew-zuckerman-light.png",
+        "compressPath": "google pixel/Google Pixel 6 Pro/compress/google-pixel-6-pro-hellebores-by-andrew-zuckerman-light.webp"
+      },
+      {
+        "name": "google-pixel-6-pro-moth-orchid-by-andrew-zuckerman-dark",
+        "type": "image/png",
+        "size": "3.91 MB",
+        "originPath": "google pixel/Google Pixel 6 Pro/origin/google-pixel-6-pro-moth-orchid-by-andrew-zuckerman-dark.png",
+        "compressPath": "google pixel/Google Pixel 6 Pro/compress/google-pixel-6-pro-moth-orchid-by-andrew-zuckerman-dark.webp"
+      },
+      {
+        "name": "google-pixel-6-pro-moth-orchid-by-andrew-zuckerman-light",
+        "type": "image/png",
+        "size": "4.19 MB",
+        "originPath": "google pixel/Google Pixel 6 Pro/origin/google-pixel-6-pro-moth-orchid-by-andrew-zuckerman-light.png",
+        "compressPath": "google pixel/Google Pixel 6 Pro/compress/google-pixel-6-pro-moth-orchid-by-andrew-zuckerman-light.webp"
+      },
+      {
+        "name": "google-pixel-6-pro-persian-lily-by-andrew-zuckerman-dark",
+        "type": "image/png",
+        "size": "3.44 MB",
+        "originPath": "google pixel/Google Pixel 6 Pro/origin/google-pixel-6-pro-persian-lily-by-andrew-zuckerman-dark.png",
+        "compressPath": "google pixel/Google Pixel 6 Pro/compress/google-pixel-6-pro-persian-lily-by-andrew-zuckerman-dark.webp"
+      },
+      {
+        "name": "google-pixel-6-pro-persian-lily-by-andrew-zuckerman-light",
+        "type": "image/png",
+        "size": "4.31 MB",
+        "originPath": "google pixel/Google Pixel 6 Pro/origin/google-pixel-6-pro-persian-lily-by-andrew-zuckerman-light.png",
+        "compressPath": "google pixel/Google Pixel 6 Pro/compress/google-pixel-6-pro-persian-lily-by-andrew-zuckerman-light.webp"
+      },
+      {
+        "name": "google-pixel-6-pro-pincushion-protea-by-andrew-zuckerman-dark",
+        "type": "image/png",
+        "size": "5.72 MB",
+        "originPath": "google pixel/Google Pixel 6 Pro/origin/google-pixel-6-pro-pincushion-protea-by-andrew-zuckerman-dark.png",
+        "compressPath": "google pixel/Google Pixel 6 Pro/compress/google-pixel-6-pro-pincushion-protea-by-andrew-zuckerman-dark.webp"
+      },
+      {
+        "name": "google-pixel-6-pro-pincushion-protea-by-andrew-zuckerman-light",
+        "type": "image/png",
+        "size": "5.49 MB",
+        "originPath": "google pixel/Google Pixel 6 Pro/origin/google-pixel-6-pro-pincushion-protea-by-andrew-zuckerman-light.png",
+        "compressPath": "google pixel/Google Pixel 6 Pro/compress/google-pixel-6-pro-pincushion-protea-by-andrew-zuckerman-light.webp"
+      },
+      {
+        "name": "google-pixel-6-pro-slv",
+        "type": "image/png",
+        "size": "3.68 MB",
+        "originPath": "google pixel/Google Pixel 6 Pro/origin/google-pixel-6-pro-slv.png",
+        "compressPath": "google pixel/Google Pixel 6 Pro/compress/google-pixel-6-pro-slv.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 6(October 8)",
+    "date": "2021/10",
+    "item": [
+      {
+        "name": "google-pixel-6-october-8-leaked-oct-1",
+        "type": "image/png",
+        "size": "822.85 KB",
+        "originPath": "google pixel/Google Pixel 6(October 8)/origin/google-pixel-6-october-8-leaked-oct-1.png",
+        "compressPath": "google pixel/Google Pixel 6(October 8)/compress/google-pixel-6-october-8-leaked-oct-1.webp"
+      },
+      {
+        "name": "google-pixel-6-october-8-leaked-oct-2",
+        "type": "image/png",
+        "size": "886.61 KB",
+        "originPath": "google pixel/Google Pixel 6(October 8)/origin/google-pixel-6-october-8-leaked-oct-2.png",
+        "compressPath": "google pixel/Google Pixel 6(October 8)/compress/google-pixel-6-october-8-leaked-oct-2.webp"
+      },
+      {
+        "name": "google-pixel-6-october-8-leaked-oct-3",
+        "type": "image/png",
+        "size": "885.36 KB",
+        "originPath": "google pixel/Google Pixel 6(October 8)/origin/google-pixel-6-october-8-leaked-oct-3.png",
+        "compressPath": "google pixel/Google Pixel 6(October 8)/compress/google-pixel-6-october-8-leaked-oct-3.webp"
+      },
+      {
+        "name": "google-pixel-6-october-8-leaked-oct-4",
+        "type": "image/png",
+        "size": "363.64 KB",
+        "originPath": "google pixel/Google Pixel 6(October 8)/origin/google-pixel-6-october-8-leaked-oct-4.png",
+        "compressPath": "google pixel/Google Pixel 6(October 8)/compress/google-pixel-6-october-8-leaked-oct-4.webp"
+      },
+      {
+        "name": "google-pixel-6-october-8-leaked-oct-5",
+        "type": "image/png",
+        "size": "1014.96 KB",
+        "originPath": "google pixel/Google Pixel 6(October 8)/origin/google-pixel-6-october-8-leaked-oct-5.png",
+        "compressPath": "google pixel/Google Pixel 6(October 8)/compress/google-pixel-6-october-8-leaked-oct-5.webp"
+      },
+      {
+        "name": "google-pixel-6-october-8-leaked-oct",
+        "type": "image/png",
+        "size": "970.1 KB",
+        "originPath": "google pixel/Google Pixel 6(October 8)/origin/google-pixel-6-october-8-leaked-oct.png",
+        "compressPath": "google pixel/Google Pixel 6(October 8)/compress/google-pixel-6-october-8-leaked-oct.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 6a",
+    "date": "2022/07",
+    "item": [
+      {
+        "name": "google-pixel-6a-carbon-dark",
+        "type": "image/png",
+        "size": "4.26 MB",
+        "originPath": "google pixel/Google Pixel 6a/origin/google-pixel-6a-carbon-dark.png",
+        "compressPath": "google pixel/Google Pixel 6a/compress/google-pixel-6a-carbon-dark.webp"
+      },
+      {
+        "name": "google-pixel-6a-carbon-light",
+        "type": "image/png",
+        "size": "5.11 MB",
+        "originPath": "google pixel/Google Pixel 6a/origin/google-pixel-6a-carbon-light.png",
+        "compressPath": "google pixel/Google Pixel 6a/compress/google-pixel-6a-carbon-light.webp"
+      },
+      {
+        "name": "google-pixel-6a-floral1-dark",
+        "type": "image/png",
+        "size": "6.77 MB",
+        "originPath": "google pixel/Google Pixel 6a/origin/google-pixel-6a-floral1-dark.png",
+        "compressPath": "google pixel/Google Pixel 6a/compress/google-pixel-6a-floral1-dark.webp"
+      },
+      {
+        "name": "google-pixel-6a-floral1-light",
+        "type": "image/png",
+        "size": "6.85 MB",
+        "originPath": "google pixel/Google Pixel 6a/origin/google-pixel-6a-floral1-light.png",
+        "compressPath": "google pixel/Google Pixel 6a/compress/google-pixel-6a-floral1-light.webp"
+      },
+      {
+        "name": "google-pixel-6a-floral2-dark",
+        "type": "image/png",
+        "size": "6.88 MB",
+        "originPath": "google pixel/Google Pixel 6a/origin/google-pixel-6a-floral2-dark.png",
+        "compressPath": "google pixel/Google Pixel 6a/compress/google-pixel-6a-floral2-dark.webp"
+      },
+      {
+        "name": "google-pixel-6a-floral2-light",
+        "type": "image/png",
+        "size": "5.02 MB",
+        "originPath": "google pixel/Google Pixel 6a/origin/google-pixel-6a-floral2-light.png",
+        "compressPath": "google pixel/Google Pixel 6a/compress/google-pixel-6a-floral2-light.webp"
+      },
+      {
+        "name": "google-pixel-6a-floral3-dark",
+        "type": "image/png",
+        "size": "6.81 MB",
+        "originPath": "google pixel/Google Pixel 6a/origin/google-pixel-6a-floral3-dark.png",
+        "compressPath": "google pixel/Google Pixel 6a/compress/google-pixel-6a-floral3-dark.webp"
+      },
+      {
+        "name": "google-pixel-6a-floral3-light",
+        "type": "image/png",
+        "size": "5.51 MB",
+        "originPath": "google pixel/Google Pixel 6a/origin/google-pixel-6a-floral3-light.png",
+        "compressPath": "google pixel/Google Pixel 6a/compress/google-pixel-6a-floral3-light.webp"
+      },
+      {
+        "name": "google-pixel-6a-rockcandy-dark",
+        "type": "image/png",
+        "size": "6.36 MB",
+        "originPath": "google pixel/Google Pixel 6a/origin/google-pixel-6a-rockcandy-dark.png",
+        "compressPath": "google pixel/Google Pixel 6a/compress/google-pixel-6a-rockcandy-dark.webp"
+      },
+      {
+        "name": "google-pixel-6a-rockcandy-light",
+        "type": "image/png",
+        "size": "4.98 MB",
+        "originPath": "google pixel/Google Pixel 6a/origin/google-pixel-6a-rockcandy-light.png",
+        "compressPath": "google pixel/Google Pixel 6a/compress/google-pixel-6a-rockcandy-light.webp"
+      },
+      {
+        "name": "google-pixel-6a-sage-dark",
+        "type": "image/png",
+        "size": "5.61 MB",
+        "originPath": "google pixel/Google Pixel 6a/origin/google-pixel-6a-sage-dark.png",
+        "compressPath": "google pixel/Google Pixel 6a/compress/google-pixel-6a-sage-dark.webp"
+      },
+      {
+        "name": "google-pixel-6a-sage-light",
+        "type": "image/png",
+        "size": "7.82 MB",
+        "originPath": "google pixel/Google Pixel 6a/origin/google-pixel-6a-sage-light.png",
+        "compressPath": "google pixel/Google Pixel 6a/compress/google-pixel-6a-sage-light.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 7",
+    "date": "2022/10",
+    "item": [
+      {
+        "name": "google-pixel-7-black-brown-abstract-01",
+        "type": "image/png",
+        "size": "6.54 MB",
+        "originPath": "google pixel/Google Pixel 7/origin/google-pixel-7-black-brown-abstract-01.png",
+        "compressPath": "google pixel/Google Pixel 7/compress/google-pixel-7-black-brown-abstract-01.webp"
+      },
+      {
+        "name": "google-pixel-7-black-brown-abstract",
+        "type": "image/png",
+        "size": "5.84 MB",
+        "originPath": "google pixel/Google Pixel 7/origin/google-pixel-7-black-brown-abstract.png",
+        "compressPath": "google pixel/Google Pixel 7/compress/google-pixel-7-black-brown-abstract.webp"
+      },
+      {
+        "name": "google-pixel-7-black-brown-gradient-01",
+        "type": "image/png",
+        "size": "5.42 MB",
+        "originPath": "google pixel/Google Pixel 7/origin/google-pixel-7-black-brown-gradient-01.png",
+        "compressPath": "google pixel/Google Pixel 7/compress/google-pixel-7-black-brown-gradient-01.webp"
+      },
+      {
+        "name": "google-pixel-7-black-brown-gradient",
+        "type": "image/png",
+        "size": "5.51 MB",
+        "originPath": "google pixel/Google Pixel 7/origin/google-pixel-7-black-brown-gradient.png",
+        "compressPath": "google pixel/Google Pixel 7/compress/google-pixel-7-black-brown-gradient.webp"
+      },
+      {
+        "name": "google-pixel-7-black-brown-photo",
+        "type": "image/png",
+        "size": "6.56 MB",
+        "originPath": "google pixel/Google Pixel 7/origin/google-pixel-7-black-brown-photo.png",
+        "compressPath": "google pixel/Google Pixel 7/compress/google-pixel-7-black-brown-photo.webp"
+      },
+      {
+        "name": "google-pixel-7-black-gradient",
+        "type": "image/png",
+        "size": "4.5 MB",
+        "originPath": "google pixel/Google Pixel 7/origin/google-pixel-7-black-gradient.png",
+        "compressPath": "google pixel/Google Pixel 7/compress/google-pixel-7-black-gradient.webp"
+      },
+      {
+        "name": "google-pixel-7-black-silver-abstract",
+        "type": "image/png",
+        "size": "5.98 MB",
+        "originPath": "google pixel/Google Pixel 7/origin/google-pixel-7-black-silver-abstract.png",
+        "compressPath": "google pixel/Google Pixel 7/compress/google-pixel-7-black-silver-abstract.webp"
+      },
+      {
+        "name": "google-pixel-7-black-silver-gradient",
+        "type": "image/png",
+        "size": "4.44 MB",
+        "originPath": "google pixel/Google Pixel 7/origin/google-pixel-7-black-silver-gradient.png",
+        "compressPath": "google pixel/Google Pixel 7/compress/google-pixel-7-black-silver-gradient.webp"
+      },
+      {
+        "name": "google-pixel-7-gray-silver-abstract",
+        "type": "image/png",
+        "size": "3.89 MB",
+        "originPath": "google pixel/Google Pixel 7/origin/google-pixel-7-gray-silver-abstract.png",
+        "compressPath": "google pixel/Google Pixel 7/compress/google-pixel-7-gray-silver-abstract.webp"
+      },
+      {
+        "name": "google-pixel-7-green-gray-abstract",
+        "type": "image/png",
+        "size": "6.17 MB",
+        "originPath": "google pixel/Google Pixel 7/origin/google-pixel-7-green-gray-abstract.png",
+        "compressPath": "google pixel/Google Pixel 7/compress/google-pixel-7-green-gray-abstract.webp"
+      },
+      {
+        "name": "google-pixel-7-silver-gray-gradient",
+        "type": "image/png",
+        "size": "3.56 MB",
+        "originPath": "google pixel/Google Pixel 7/origin/google-pixel-7-silver-gray-gradient.png",
+        "compressPath": "google pixel/Google Pixel 7/compress/google-pixel-7-silver-gray-gradient.webp"
+      },
+      {
+        "name": "google-pixel-7-silver-gray-pattern",
+        "type": "image/png",
+        "size": "6.96 MB",
+        "originPath": "google pixel/Google Pixel 7/origin/google-pixel-7-silver-gray-pattern.png",
+        "compressPath": "google pixel/Google Pixel 7/compress/google-pixel-7-silver-gray-pattern.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 7 Pro",
+    "date": "2022/10",
+    "item": [
+      {
+        "name": "google-pixel-7-pro-black-brown-abstract-01",
+        "type": "image/png",
+        "size": "4.3 MB",
+        "originPath": "google pixel/Google Pixel 7 Pro/origin/google-pixel-7-pro-black-brown-abstract-01.png",
+        "compressPath": "google pixel/Google Pixel 7 Pro/compress/google-pixel-7-pro-black-brown-abstract-01.webp"
+      },
+      {
+        "name": "google-pixel-7-pro-black-brown-abstract",
+        "type": "image/png",
+        "size": "4.93 MB",
+        "originPath": "google pixel/Google Pixel 7 Pro/origin/google-pixel-7-pro-black-brown-abstract.png",
+        "compressPath": "google pixel/Google Pixel 7 Pro/compress/google-pixel-7-pro-black-brown-abstract.webp"
+      },
+      {
+        "name": "google-pixel-7-pro-black-brown-gradient-01",
+        "type": "image/png",
+        "size": "4.75 MB",
+        "originPath": "google pixel/Google Pixel 7 Pro/origin/google-pixel-7-pro-black-brown-gradient-01.png",
+        "compressPath": "google pixel/Google Pixel 7 Pro/compress/google-pixel-7-pro-black-brown-gradient-01.webp"
+      },
+      {
+        "name": "google-pixel-7-pro-black-brown-gradient",
+        "type": "image/png",
+        "size": "4.75 MB",
+        "originPath": "google pixel/Google Pixel 7 Pro/origin/google-pixel-7-pro-black-brown-gradient.png",
+        "compressPath": "google pixel/Google Pixel 7 Pro/compress/google-pixel-7-pro-black-brown-gradient.webp"
+      },
+      {
+        "name": "google-pixel-7-pro-black-brown-photo",
+        "type": "image/png",
+        "size": "5.34 MB",
+        "originPath": "google pixel/Google Pixel 7 Pro/origin/google-pixel-7-pro-black-brown-photo.png",
+        "compressPath": "google pixel/Google Pixel 7 Pro/compress/google-pixel-7-pro-black-brown-photo.webp"
+      },
+      {
+        "name": "google-pixel-7-pro-black-gradient",
+        "type": "image/png",
+        "size": "3.18 MB",
+        "originPath": "google pixel/Google Pixel 7 Pro/origin/google-pixel-7-pro-black-gradient.png",
+        "compressPath": "google pixel/Google Pixel 7 Pro/compress/google-pixel-7-pro-black-gradient.webp"
+      },
+      {
+        "name": "google-pixel-7-pro-black-silver-abstract",
+        "type": "image/png",
+        "size": "4.98 MB",
+        "originPath": "google pixel/Google Pixel 7 Pro/origin/google-pixel-7-pro-black-silver-abstract.png",
+        "compressPath": "google pixel/Google Pixel 7 Pro/compress/google-pixel-7-pro-black-silver-abstract.webp"
+      },
+      {
+        "name": "google-pixel-7-pro-black-silver-gradient",
+        "type": "image/png",
+        "size": "3.54 MB",
+        "originPath": "google pixel/Google Pixel 7 Pro/origin/google-pixel-7-pro-black-silver-gradient.png",
+        "compressPath": "google pixel/Google Pixel 7 Pro/compress/google-pixel-7-pro-black-silver-gradient.webp"
+      },
+      {
+        "name": "google-pixel-7-pro-gray-silver-abstract",
+        "type": "image/png",
+        "size": "3.2 MB",
+        "originPath": "google pixel/Google Pixel 7 Pro/origin/google-pixel-7-pro-gray-silver-abstract.png",
+        "compressPath": "google pixel/Google Pixel 7 Pro/compress/google-pixel-7-pro-gray-silver-abstract.webp"
+      },
+      {
+        "name": "google-pixel-7-pro-green-gray-abstract",
+        "type": "image/png",
+        "size": "4.81 MB",
+        "originPath": "google pixel/Google Pixel 7 Pro/origin/google-pixel-7-pro-green-gray-abstract.png",
+        "compressPath": "google pixel/Google Pixel 7 Pro/compress/google-pixel-7-pro-green-gray-abstract.webp"
+      },
+      {
+        "name": "google-pixel-7-pro-silver-gray-gradient",
+        "type": "image/png",
+        "size": "2.7 MB",
+        "originPath": "google pixel/Google Pixel 7 Pro/origin/google-pixel-7-pro-silver-gray-gradient.png",
+        "compressPath": "google pixel/Google Pixel 7 Pro/compress/google-pixel-7-pro-silver-gray-gradient.webp"
+      },
+      {
+        "name": "google-pixel-7-pro-silver-gray-pattern",
+        "type": "image/png",
+        "size": "5.72 MB",
+        "originPath": "google pixel/Google Pixel 7 Pro/origin/google-pixel-7-pro-silver-gray-pattern.png",
+        "compressPath": "google pixel/Google Pixel 7 Pro/compress/google-pixel-7-pro-silver-gray-pattern.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 7a",
+    "date": "2023/05",
+    "item": [
+      {
+        "name": "google-pixel-7a-black-gradient-01",
+        "type": "image/png",
+        "size": "3.42 MB",
+        "originPath": "google pixel/Google Pixel 7a/origin/google-pixel-7a-black-gradient-01.png",
+        "compressPath": "google pixel/Google Pixel 7a/compress/google-pixel-7a-black-gradient-01.webp"
+      },
+      {
+        "name": "google-pixel-7a-black-gradient",
+        "type": "image/png",
+        "size": "3.51 MB",
+        "originPath": "google pixel/Google Pixel 7a/origin/google-pixel-7a-black-gradient.PNG",
+        "compressPath": "google pixel/Google Pixel 7a/compress/google-pixel-7a-black-gradient.webp"
+      },
+      {
+        "name": "google-pixel-7a-black-silver-photo",
+        "type": "image/png",
+        "size": "4.68 MB",
+        "originPath": "google pixel/Google Pixel 7a/origin/google-pixel-7a-black-silver-photo.PNG",
+        "compressPath": "google pixel/Google Pixel 7a/compress/google-pixel-7a-black-silver-photo.webp"
+      },
+      {
+        "name": "google-pixel-7a-gray-black-abstract",
+        "type": "image/png",
+        "size": "4.4 MB",
+        "originPath": "google pixel/Google Pixel 7a/origin/google-pixel-7a-gray-black-abstract.PNG",
+        "compressPath": "google pixel/Google Pixel 7a/compress/google-pixel-7a-gray-black-abstract.webp"
+      },
+      {
+        "name": "google-pixel-7a-gray-silver-gradient",
+        "type": "image/png",
+        "size": "3.47 MB",
+        "originPath": "google pixel/Google Pixel 7a/origin/google-pixel-7a-gray-silver-gradient.png",
+        "compressPath": "google pixel/Google Pixel 7a/compress/google-pixel-7a-gray-silver-gradient.webp"
+      },
+      {
+        "name": "google-pixel-7a-gray-silver-photo",
+        "type": "image/png",
+        "size": "4.11 MB",
+        "originPath": "google pixel/Google Pixel 7a/origin/google-pixel-7a-gray-silver-photo.png",
+        "compressPath": "google pixel/Google Pixel 7a/compress/google-pixel-7a-gray-silver-photo.webp"
+      },
+      {
+        "name": "google-pixel-7a-red-black-abstract",
+        "type": "image/png",
+        "size": "12.96 MB",
+        "originPath": "google pixel/Google Pixel 7a/origin/google-pixel-7a-red-black-abstract.png",
+        "compressPath": "google pixel/Google Pixel 7a/compress/google-pixel-7a-red-black-abstract.webp"
+      },
+      {
+        "name": "google-pixel-7a-red-rose-abstract",
+        "type": "image/png",
+        "size": "4.36 MB",
+        "originPath": "google pixel/Google Pixel 7a/origin/google-pixel-7a-red-rose-abstract.png",
+        "compressPath": "google pixel/Google Pixel 7a/compress/google-pixel-7a-red-rose-abstract.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 8",
+    "date": "2023/10",
+    "item": [
+      {
+        "name": "google-pixel-8-haze-dark",
+        "type": "image/png",
+        "size": "12.31 MB",
+        "originPath": "google pixel/Google Pixel 8/origin/google-pixel-8-haze-dark.png",
+        "compressPath": "google pixel/Google Pixel 8/compress/google-pixel-8-haze-dark.webp"
+      },
+      {
+        "name": "google-pixel-8-haze-light",
+        "type": "image/png",
+        "size": "13.15 MB",
+        "originPath": "google pixel/Google Pixel 8/origin/google-pixel-8-haze-light.png",
+        "compressPath": "google pixel/Google Pixel 8/compress/google-pixel-8-haze-light.webp"
+      },
+      {
+        "name": "google-pixel-8-jade-dark",
+        "type": "image/png",
+        "size": "11.43 MB",
+        "originPath": "google pixel/Google Pixel 8/origin/google-pixel-8-jade-dark.png",
+        "compressPath": "google pixel/Google Pixel 8/compress/google-pixel-8-jade-dark.webp"
+      },
+      {
+        "name": "google-pixel-8-jade-light",
+        "type": "image/png",
+        "size": "11.75 MB",
+        "originPath": "google pixel/Google Pixel 8/origin/google-pixel-8-jade-light.png",
+        "compressPath": "google pixel/Google Pixel 8/compress/google-pixel-8-jade-light.webp"
+      },
+      {
+        "name": "google-pixel-8-licorice-dark",
+        "type": "image/png",
+        "size": "13.13 MB",
+        "originPath": "google pixel/Google Pixel 8/origin/google-pixel-8-licorice-dark.png",
+        "compressPath": "google pixel/Google Pixel 8/compress/google-pixel-8-licorice-dark.webp"
+      },
+      {
+        "name": "google-pixel-8-licorice-light",
+        "type": "image/png",
+        "size": "14.65 MB",
+        "originPath": "google pixel/Google Pixel 8/origin/google-pixel-8-licorice-light.png",
+        "compressPath": "google pixel/Google Pixel 8/compress/google-pixel-8-licorice-light.webp"
+      },
+      {
+        "name": "google-pixel-8-peony-dark",
+        "type": "image/png",
+        "size": "12.45 MB",
+        "originPath": "google pixel/Google Pixel 8/origin/google-pixel-8-peony-dark.png",
+        "compressPath": "google pixel/Google Pixel 8/compress/google-pixel-8-peony-dark.webp"
+      },
+      {
+        "name": "google-pixel-8-peony-light",
+        "type": "image/png",
+        "size": "11.7 MB",
+        "originPath": "google pixel/Google Pixel 8/origin/google-pixel-8-peony-light.png",
+        "compressPath": "google pixel/Google Pixel 8/compress/google-pixel-8-peony-light.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 8 Pro",
+    "date": "2023/10",
+    "item": [
+      {
+        "name": "google-pixel-8-pro-jade-dark",
+        "type": "image/png",
+        "size": "13.13 MB",
+        "originPath": "google pixel/Google Pixel 8 Pro/origin/google-pixel-8-pro-jade-dark.png",
+        "compressPath": "google pixel/Google Pixel 8 Pro/compress/google-pixel-8-pro-jade-dark.webp"
+      },
+      {
+        "name": "google-pixel-8-pro-jade-light",
+        "type": "image/png",
+        "size": "12.48 MB",
+        "originPath": "google pixel/Google Pixel 8 Pro/origin/google-pixel-8-pro-jade-light.png",
+        "compressPath": "google pixel/Google Pixel 8 Pro/compress/google-pixel-8-pro-jade-light.webp"
+      },
+      {
+        "name": "google-pixel-8-pro-licorice-dark",
+        "type": "image/png",
+        "size": "10.88 MB",
+        "originPath": "google pixel/Google Pixel 8 Pro/origin/google-pixel-8-pro-licorice-dark.png",
+        "compressPath": "google pixel/Google Pixel 8 Pro/compress/google-pixel-8-pro-licorice-dark.webp"
+      },
+      {
+        "name": "google-pixel-8-pro-licorice-light",
+        "type": "image/png",
+        "size": "12.12 MB",
+        "originPath": "google pixel/Google Pixel 8 Pro/origin/google-pixel-8-pro-licorice-light.png",
+        "compressPath": "google pixel/Google Pixel 8 Pro/compress/google-pixel-8-pro-licorice-light.webp"
+      },
+      {
+        "name": "google-pixel-8-pro-porcelain-dark",
+        "type": "image/png",
+        "size": "11.35 MB",
+        "originPath": "google pixel/Google Pixel 8 Pro/origin/google-pixel-8-pro-porcelain-dark.png",
+        "compressPath": "google pixel/Google Pixel 8 Pro/compress/google-pixel-8-pro-porcelain-dark.webp"
+      },
+      {
+        "name": "google-pixel-8-pro-porcelain-light",
+        "type": "image/png",
+        "size": "12.01 MB",
+        "originPath": "google pixel/Google Pixel 8 Pro/origin/google-pixel-8-pro-porcelain-light.png",
+        "compressPath": "google pixel/Google Pixel 8 Pro/compress/google-pixel-8-pro-porcelain-light.webp"
+      },
+      {
+        "name": "google-pixel-8-pro-sky-dark",
+        "type": "image/png",
+        "size": "10.91 MB",
+        "originPath": "google pixel/Google Pixel 8 Pro/origin/google-pixel-8-pro-sky-dark.png",
+        "compressPath": "google pixel/Google Pixel 8 Pro/compress/google-pixel-8-pro-sky-dark.webp"
+      },
+      {
+        "name": "google-pixel-8-pro-sky-light",
+        "type": "image/png",
+        "size": "11.83 MB",
+        "originPath": "google pixel/Google Pixel 8 Pro/origin/google-pixel-8-pro-sky-light.png",
+        "compressPath": "google pixel/Google Pixel 8 Pro/compress/google-pixel-8-pro-sky-light.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 8a",
+    "date": "2024/05",
+    "item": [
+      {
+        "name": "google-pixel-8a-barite-dark",
+        "type": "image/jpeg",
+        "size": "6.21 MB",
+        "originPath": "google pixel/Google Pixel 8a/origin/google-pixel-8a-barite-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 8a/compress/google-pixel-8a-barite-dark.webp"
+      },
+      {
+        "name": "google-pixel-8a-barite-light",
+        "type": "image/jpeg",
+        "size": "6.34 MB",
+        "originPath": "google pixel/Google Pixel 8a/origin/google-pixel-8a-barite-light.jpg",
+        "compressPath": "google pixel/Google Pixel 8a/compress/google-pixel-8a-barite-light.webp"
+      },
+      {
+        "name": "google-pixel-8a-hematite-dark",
+        "type": "image/jpeg",
+        "size": "3.91 MB",
+        "originPath": "google pixel/Google Pixel 8a/origin/google-pixel-8a-hematite-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 8a/compress/google-pixel-8a-hematite-dark.webp"
+      },
+      {
+        "name": "google-pixel-8a-hematite-light",
+        "type": "image/jpeg",
+        "size": "4.51 MB",
+        "originPath": "google pixel/Google Pixel 8a/origin/google-pixel-8a-hematite-light.jpg",
+        "compressPath": "google pixel/Google Pixel 8a/compress/google-pixel-8a-hematite-light.webp"
+      },
+      {
+        "name": "google-pixel-8a-titanite-dark",
+        "type": "image/jpeg",
+        "size": "8.29 MB",
+        "originPath": "google pixel/Google Pixel 8a/origin/google-pixel-8a-titanite-dark.jpg",
+        "compressPath": "google pixel/Google Pixel 8a/compress/google-pixel-8a-titanite-dark.webp"
+      },
+      {
+        "name": "google-pixel-8a-titanite-light",
+        "type": "image/jpeg",
+        "size": "7.56 MB",
+        "originPath": "google pixel/Google Pixel 8a/origin/google-pixel-8a-titanite-light.jpg",
+        "compressPath": "google pixel/Google Pixel 8a/compress/google-pixel-8a-titanite-light.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 9",
+    "date": "2024/08",
+    "item": [
+      {
+        "name": "google-pixel-9-jade-dark",
+        "type": "image/jpeg",
+        "size": "467.73 KB",
+        "originPath": "google pixel/Google Pixel 9/origin/google-pixel-9-jade-dark.jpeg",
+        "compressPath": "google pixel/Google Pixel 9/compress/google-pixel-9-jade-dark.webp"
+      },
+      {
+        "name": "google-pixel-9-jade-light",
+        "type": "image/jpeg",
+        "size": "501 KB",
+        "originPath": "google pixel/Google Pixel 9/origin/google-pixel-9-jade-light.jpeg",
+        "compressPath": "google pixel/Google Pixel 9/compress/google-pixel-9-jade-light.webp"
+      },
+      {
+        "name": "google-pixel-9-obsidian-dark",
+        "type": "image/jpeg",
+        "size": "433.59 KB",
+        "originPath": "google pixel/Google Pixel 9/origin/google-pixel-9-obsidian-dark.jpeg",
+        "compressPath": "google pixel/Google Pixel 9/compress/google-pixel-9-obsidian-dark.webp"
+      },
+      {
+        "name": "google-pixel-9-obsidian-light",
+        "type": "image/jpeg",
+        "size": "435.85 KB",
+        "originPath": "google pixel/Google Pixel 9/origin/google-pixel-9-obsidian-light.jpeg",
+        "compressPath": "google pixel/Google Pixel 9/compress/google-pixel-9-obsidian-light.webp"
+      },
+      {
+        "name": "google-pixel-9-peony-dark",
+        "type": "image/jpeg",
+        "size": "447.51 KB",
+        "originPath": "google pixel/Google Pixel 9/origin/google-pixel-9-peony-dark.jpeg",
+        "compressPath": "google pixel/Google Pixel 9/compress/google-pixel-9-peony-dark.webp"
+      },
+      {
+        "name": "google-pixel-9-peony-light",
+        "type": "image/jpeg",
+        "size": "458.29 KB",
+        "originPath": "google pixel/Google Pixel 9/origin/google-pixel-9-peony-light.jpeg",
+        "compressPath": "google pixel/Google Pixel 9/compress/google-pixel-9-peony-light.webp"
+      },
+      {
+        "name": "google-pixel-9-porcelain-dark",
+        "type": "image/jpeg",
+        "size": "547.33 KB",
+        "originPath": "google pixel/Google Pixel 9/origin/google-pixel-9-porcelain-dark.jpeg",
+        "compressPath": "google pixel/Google Pixel 9/compress/google-pixel-9-porcelain-dark.webp"
+      },
+      {
+        "name": "google-pixel-9-porcelain-light",
+        "type": "image/jpeg",
+        "size": "515.18 KB",
+        "originPath": "google pixel/Google Pixel 9/origin/google-pixel-9-porcelain-light.jpeg",
+        "compressPath": "google pixel/Google Pixel 9/compress/google-pixel-9-porcelain-light.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 9 Pro",
+    "date": "2024/08",
+    "item": [
+      {
+        "name": "google-pixel-9-pro-large-hazel-dark",
+        "type": "image/jpeg",
+        "size": "457.45 KB",
+        "originPath": "google pixel/Google Pixel 9 Pro/origin/google-pixel-9-pro-large-hazel-dark.jpeg",
+        "compressPath": "google pixel/Google Pixel 9 Pro/compress/google-pixel-9-pro-large-hazel-dark.webp"
+      },
+      {
+        "name": "google-pixel-9-pro-large-hazel-light",
+        "type": "image/jpeg",
+        "size": "585.94 KB",
+        "originPath": "google pixel/Google Pixel 9 Pro/origin/google-pixel-9-pro-large-hazel-light.jpeg",
+        "compressPath": "google pixel/Google Pixel 9 Pro/compress/google-pixel-9-pro-large-hazel-light.webp"
+      },
+      {
+        "name": "google-pixel-9-pro-large-obsidian-dark",
+        "type": "image/jpeg",
+        "size": "467.69 KB",
+        "originPath": "google pixel/Google Pixel 9 Pro/origin/google-pixel-9-pro-large-obsidian-dark.jpeg",
+        "compressPath": "google pixel/Google Pixel 9 Pro/compress/google-pixel-9-pro-large-obsidian-dark.webp"
+      },
+      {
+        "name": "google-pixel-9-pro-large-obsidian-light",
+        "type": "image/jpeg",
+        "size": "483.98 KB",
+        "originPath": "google pixel/Google Pixel 9 Pro/origin/google-pixel-9-pro-large-obsidian-light.jpeg",
+        "compressPath": "google pixel/Google Pixel 9 Pro/compress/google-pixel-9-pro-large-obsidian-light.webp"
+      },
+      {
+        "name": "google-pixel-9-pro-large-porcelain-dark",
+        "type": "image/jpeg",
+        "size": "541.53 KB",
+        "originPath": "google pixel/Google Pixel 9 Pro/origin/google-pixel-9-pro-large-porcelain-dark.jpeg",
+        "compressPath": "google pixel/Google Pixel 9 Pro/compress/google-pixel-9-pro-large-porcelain-dark.webp"
+      },
+      {
+        "name": "google-pixel-9-pro-large-porcelain-light",
+        "type": "image/jpeg",
+        "size": "473.74 KB",
+        "originPath": "google pixel/Google Pixel 9 Pro/origin/google-pixel-9-pro-large-porcelain-light.jpeg",
+        "compressPath": "google pixel/Google Pixel 9 Pro/compress/google-pixel-9-pro-large-porcelain-light.webp"
+      },
+      {
+        "name": "google-pixel-9-pro-large-rose-dark",
+        "type": "image/jpeg",
+        "size": "458.07 KB",
+        "originPath": "google pixel/Google Pixel 9 Pro/origin/google-pixel-9-pro-large-rose-dark.jpeg",
+        "compressPath": "google pixel/Google Pixel 9 Pro/compress/google-pixel-9-pro-large-rose-dark.webp"
+      },
+      {
+        "name": "google-pixel-9-pro-large-rose-light",
+        "type": "image/jpeg",
+        "size": "489.86 KB",
+        "originPath": "google pixel/Google Pixel 9 Pro/origin/google-pixel-9-pro-large-rose-light.jpeg",
+        "compressPath": "google pixel/Google Pixel 9 Pro/compress/google-pixel-9-pro-large-rose-light.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 9 Pro Fold",
+    "date": "2024/08",
+    "item": [
+      {
+        "name": "google-pixel-9-pro-fold-obsidian-dark",
+        "type": "image/jpeg",
+        "size": "336.19 KB",
+        "originPath": "google pixel/Google Pixel 9 Pro Fold/origin/google-pixel-9-pro-fold-obsidian-dark.jpeg",
+        "compressPath": "google pixel/Google Pixel 9 Pro Fold/compress/google-pixel-9-pro-fold-obsidian-dark.webp"
+      },
+      {
+        "name": "google-pixel-9-pro-fold-obsidian-light",
+        "type": "image/jpeg",
+        "size": "391.56 KB",
+        "originPath": "google pixel/Google Pixel 9 Pro Fold/origin/google-pixel-9-pro-fold-obsidian-light.jpeg",
+        "compressPath": "google pixel/Google Pixel 9 Pro Fold/compress/google-pixel-9-pro-fold-obsidian-light.webp"
+      },
+      {
+        "name": "google-pixel-9-pro-fold-porcelain-dark",
+        "type": "image/jpeg",
+        "size": "411.32 KB",
+        "originPath": "google pixel/Google Pixel 9 Pro Fold/origin/google-pixel-9-pro-fold-porcelain-dark.jpeg",
+        "compressPath": "google pixel/Google Pixel 9 Pro Fold/compress/google-pixel-9-pro-fold-porcelain-dark.webp"
+      },
+      {
+        "name": "google-pixel-9-pro-fold-porcelain-light",
+        "type": "image/jpeg",
+        "size": "446.14 KB",
+        "originPath": "google pixel/Google Pixel 9 Pro Fold/origin/google-pixel-9-pro-fold-porcelain-light.jpeg",
+        "compressPath": "google pixel/Google Pixel 9 Pro Fold/compress/google-pixel-9-pro-fold-porcelain-light.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel 9 Pro XL",
+    "date": "2024/08",
+    "item": [
+      {
+        "name": "google-pixel-9-pro-xl-premium-hazel-dark",
+        "type": "image/jpeg",
+        "size": "476.74 KB",
+        "originPath": "google pixel/Google Pixel 9 Pro XL/origin/google-pixel-9-pro-xl-premium-hazel-dark.jpeg",
+        "compressPath": "google pixel/Google Pixel 9 Pro XL/compress/google-pixel-9-pro-xl-premium-hazel-dark.webp"
+      },
+      {
+        "name": "google-pixel-9-pro-xl-premium-hazel-light",
+        "type": "image/jpeg",
+        "size": "685 KB",
+        "originPath": "google pixel/Google Pixel 9 Pro XL/origin/google-pixel-9-pro-xl-premium-hazel-light.jpeg",
+        "compressPath": "google pixel/Google Pixel 9 Pro XL/compress/google-pixel-9-pro-xl-premium-hazel-light.webp"
+      },
+      {
+        "name": "google-pixel-9-pro-xl-premium-obsidian-dark",
+        "type": "image/jpeg",
+        "size": "533.81 KB",
+        "originPath": "google pixel/Google Pixel 9 Pro XL/origin/google-pixel-9-pro-xl-premium-obsidian-dark.jpeg",
+        "compressPath": "google pixel/Google Pixel 9 Pro XL/compress/google-pixel-9-pro-xl-premium-obsidian-dark.webp"
+      },
+      {
+        "name": "google-pixel-9-pro-xl-premium-obsidian-light",
+        "type": "image/jpeg",
+        "size": "603.74 KB",
+        "originPath": "google pixel/Google Pixel 9 Pro XL/origin/google-pixel-9-pro-xl-premium-obsidian-light.jpeg",
+        "compressPath": "google pixel/Google Pixel 9 Pro XL/compress/google-pixel-9-pro-xl-premium-obsidian-light.webp"
+      },
+      {
+        "name": "google-pixel-9-pro-xl-premium-porcelain-dark",
+        "type": "image/jpeg",
+        "size": "573.87 KB",
+        "originPath": "google pixel/Google Pixel 9 Pro XL/origin/google-pixel-9-pro-xl-premium-porcelain-dark.jpeg",
+        "compressPath": "google pixel/Google Pixel 9 Pro XL/compress/google-pixel-9-pro-xl-premium-porcelain-dark.webp"
+      },
+      {
+        "name": "google-pixel-9-pro-xl-premium-porcelain-light",
+        "type": "image/jpeg",
+        "size": "574.22 KB",
+        "originPath": "google pixel/Google Pixel 9 Pro XL/origin/google-pixel-9-pro-xl-premium-porcelain-light.jpeg",
+        "compressPath": "google pixel/Google Pixel 9 Pro XL/compress/google-pixel-9-pro-xl-premium-porcelain-light.webp"
+      },
+      {
+        "name": "google-pixel-9-pro-xl-premium-rose-dark",
+        "type": "image/jpeg",
+        "size": "536.71 KB",
+        "originPath": "google pixel/Google Pixel 9 Pro XL/origin/google-pixel-9-pro-xl-premium-rose-dark.jpeg",
+        "compressPath": "google pixel/Google Pixel 9 Pro XL/compress/google-pixel-9-pro-xl-premium-rose-dark.webp"
+      },
+      {
+        "name": "google-pixel-9-pro-xl-premium-rose-light",
+        "type": "image/jpeg",
+        "size": "509.64 KB",
+        "originPath": "google pixel/Google Pixel 9 Pro XL/origin/google-pixel-9-pro-xl-premium-rose-light.jpeg",
+        "compressPath": "google pixel/Google Pixel 9 Pro XL/compress/google-pixel-9-pro-xl-premium-rose-light.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel Fold",
+    "date": "2023/06",
+    "item": [
+      {
+        "name": "google-pixel-fold-fallback-licorice-dark",
+        "type": "image/jpeg",
+        "size": "1.64 MB",
+        "originPath": "google pixel/Google Pixel Fold/origin/google-pixel-fold-fallback-licorice-dark.jpg",
+        "compressPath": "google pixel/Google Pixel Fold/compress/google-pixel-fold-fallback-licorice-dark.webp"
+      },
+      {
+        "name": "google-pixel-fold-fallback-licorice",
+        "type": "image/jpeg",
+        "size": "2.06 MB",
+        "originPath": "google pixel/Google Pixel Fold/origin/google-pixel-fold-fallback-licorice.jpg",
+        "compressPath": "google pixel/Google Pixel Fold/compress/google-pixel-fold-fallback-licorice.webp"
+      },
+      {
+        "name": "google-pixel-fold-fallback-porcelain-dark",
+        "type": "image/jpeg",
+        "size": "1.86 MB",
+        "originPath": "google pixel/Google Pixel Fold/origin/google-pixel-fold-fallback-porcelain-dark.jpg",
+        "compressPath": "google pixel/Google Pixel Fold/compress/google-pixel-fold-fallback-porcelain-dark.webp"
+      },
+      {
+        "name": "google-pixel-fold-fallback-porcelain",
+        "type": "image/jpeg",
+        "size": "1.84 MB",
+        "originPath": "google pixel/Google Pixel Fold/origin/google-pixel-fold-fallback-porcelain.jpg",
+        "compressPath": "google pixel/Google Pixel Fold/compress/google-pixel-fold-fallback-porcelain.webp"
+      },
+      {
+        "name": "google-pixel-fold-front-licorice-dark",
+        "type": "image/jpeg",
+        "size": "1.37 MB",
+        "originPath": "google pixel/Google Pixel Fold/origin/google-pixel-fold-front-licorice-dark.jpg",
+        "compressPath": "google pixel/Google Pixel Fold/compress/google-pixel-fold-front-licorice-dark.webp"
+      },
+      {
+        "name": "google-pixel-fold-front-licorice",
+        "type": "image/jpeg",
+        "size": "1.35 MB",
+        "originPath": "google pixel/Google Pixel Fold/origin/google-pixel-fold-front-licorice.jpg",
+        "compressPath": "google pixel/Google Pixel Fold/compress/google-pixel-fold-front-licorice.webp"
+      },
+      {
+        "name": "google-pixel-fold-front-porcelain-dark",
+        "type": "image/jpeg",
+        "size": "819.45 KB",
+        "originPath": "google pixel/Google Pixel Fold/origin/google-pixel-fold-front-porcelain-dark.jpg",
+        "compressPath": "google pixel/Google Pixel Fold/compress/google-pixel-fold-front-porcelain-dark.webp"
+      },
+      {
+        "name": "google-pixel-fold-front-porcelain",
+        "type": "image/jpeg",
+        "size": "837.99 KB",
+        "originPath": "google pixel/Google Pixel Fold/origin/google-pixel-fold-front-porcelain.jpg",
+        "compressPath": "google pixel/Google Pixel Fold/compress/google-pixel-fold-front-porcelain.webp"
+      },
+      {
+        "name": "google-pixel-fold-static-internal-licorice-dark",
+        "type": "image/jpeg",
+        "size": "2.93 MB",
+        "originPath": "google pixel/Google Pixel Fold/origin/google-pixel-fold-static-internal-licorice-dark.jpg",
+        "compressPath": "google pixel/Google Pixel Fold/compress/google-pixel-fold-static-internal-licorice-dark.webp"
+      },
+      {
+        "name": "google-pixel-fold-static-internal-licorice",
+        "type": "image/jpeg",
+        "size": "2.98 MB",
+        "originPath": "google pixel/Google Pixel Fold/origin/google-pixel-fold-static-internal-licorice.jpg",
+        "compressPath": "google pixel/Google Pixel Fold/compress/google-pixel-fold-static-internal-licorice.webp"
+      },
+      {
+        "name": "google-pixel-fold-static-internal-porcelain-dark",
+        "type": "image/jpeg",
+        "size": "2.05 MB",
+        "originPath": "google pixel/Google Pixel Fold/origin/google-pixel-fold-static-internal-porcelain-dark.jpg",
+        "compressPath": "google pixel/Google Pixel Fold/compress/google-pixel-fold-static-internal-porcelain-dark.webp"
+      },
+      {
+        "name": "google-pixel-fold-static-internal-porcelain",
+        "type": "image/jpeg",
+        "size": "2.08 MB",
+        "originPath": "google pixel/Google Pixel Fold/origin/google-pixel-fold-static-internal-porcelain.jpg",
+        "compressPath": "google pixel/Google Pixel Fold/compress/google-pixel-fold-static-internal-porcelain.webp"
+      }
+    ]
+  },
+  {
+    "name": "Google Pixel:Pixel XL",
+    "date": "2016/10",
+    "item": [
+      {
+        "name": "google-pixel-pixel-xl-black-brown-photo-01",
+        "type": "image/jpeg",
+        "size": "2.34 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-black-brown-photo-01.jpg",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-black-brown-photo-01.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-black-brown-photo-02",
+        "type": "image/png",
+        "size": "6.91 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-black-brown-photo-02.png",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-black-brown-photo-02.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-black-brown-photo",
+        "type": "image/jpeg",
+        "size": "2.87 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-black-brown-photo.jpg",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-black-brown-photo.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-black-brown-photo",
+        "type": "image/png",
+        "size": "6.64 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-black-brown-photo.png",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-black-brown-photo.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-black-gray-abstract",
+        "type": "image/jpeg",
+        "size": "321.28 KB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-black-gray-abstract.jpg",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-black-gray-abstract.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-black-gray-photo",
+        "type": "image/jpeg",
+        "size": "1.23 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-black-gray-photo.jpg",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-black-gray-photo.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-black-green-photo",
+        "type": "image/png",
+        "size": "17.81 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-black-green-photo.png",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-black-green-photo.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-black-red-abstract",
+        "type": "image/png",
+        "size": "11.63 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-black-red-abstract.png",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-black-red-abstract.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-blue-black-abstract",
+        "type": "image/jpeg",
+        "size": "639.38 KB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-blue-black-abstract.jpg",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-blue-black-abstract.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-brown-black-pattern",
+        "type": "image/png",
+        "size": "6.19 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-brown-black-pattern.png",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-brown-black-pattern.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-brown-black-photo",
+        "type": "image/jpeg",
+        "size": "2.23 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-brown-black-photo.jpg",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-brown-black-photo.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-brown-gray-photo",
+        "type": "image/jpeg",
+        "size": "1.48 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-brown-gray-photo.jpg",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-brown-gray-photo.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-brown-rose-photo",
+        "type": "image/png",
+        "size": "15.13 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-brown-rose-photo.png",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-brown-rose-photo.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-droidviews",
+        "type": "image/png",
+        "size": "1.59 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-droidviews.png",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-droidviews.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-gray-brown-photo-01",
+        "type": "image/png",
+        "size": "17.29 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-gray-brown-photo-01.png",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-gray-brown-photo-01.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-gray-brown-photo",
+        "type": "image/png",
+        "size": "15.94 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-gray-brown-photo.png",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-gray-brown-photo.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-j-wp001-droidviews",
+        "type": "image/png",
+        "size": "1.35 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-j-wp001-droidviews.png",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-j-wp001-droidviews.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-j-wp002-droidviews",
+        "type": "image/png",
+        "size": "1.67 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-j-wp002-droidviews.png",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-j-wp002-droidviews.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-j-wp003-droidviews",
+        "type": "image/png",
+        "size": "1.73 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-j-wp003-droidviews.png",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-j-wp003-droidviews.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-j-wp004-droidviews",
+        "type": "image/jpeg",
+        "size": "1016.28 KB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-j-wp004-droidviews.jpg",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-j-wp004-droidviews.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-j-wp005-droidviews",
+        "type": "image/jpeg",
+        "size": "1.69 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-j-wp005-droidviews.jpg",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-j-wp005-droidviews.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-j-wp006-droidviews",
+        "type": "image/jpeg",
+        "size": "1.76 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-j-wp006-droidviews.jpg",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-j-wp006-droidviews.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-j-wp007-droidviews",
+        "type": "image/jpeg",
+        "size": "1.02 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-j-wp007-droidviews.jpg",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-j-wp007-droidviews.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-j-wp008-droidviews",
+        "type": "image/jpeg",
+        "size": "1.45 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-j-wp008-droidviews.jpg",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-j-wp008-droidviews.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-j-wp009-droidviews",
+        "type": "image/jpeg",
+        "size": "1.12 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-j-wp009-droidviews.jpg",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-j-wp009-droidviews.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-j-wp010-droidviews",
+        "type": "image/jpeg",
+        "size": "460.38 KB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-j-wp010-droidviews.jpg",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-j-wp010-droidviews.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-red-rose-photo",
+        "type": "image/png",
+        "size": "19.55 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-red-rose-photo.png",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-red-rose-photo.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-silver-black-photo-01",
+        "type": "image/jpeg",
+        "size": "1.35 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-silver-black-photo-01.jpg",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-silver-black-photo-01.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-silver-black-photo",
+        "type": "image/jpeg",
+        "size": "3.09 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-silver-black-photo.jpg",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-silver-black-photo.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-teal-brown-photo",
+        "type": "image/jpeg",
+        "size": "1.97 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-teal-brown-photo.jpg",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-teal-brown-photo.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-z-wp001-droidviews",
+        "type": "image/jpeg",
+        "size": "1.63 MB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-z-wp001-droidviews.jpg",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-z-wp001-droidviews.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-z-wp002-droidviews",
+        "type": "image/jpeg",
+        "size": "996.03 KB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-z-wp002-droidviews.jpg",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-z-wp002-droidviews.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-z-wp003-droidviews",
+        "type": "image/jpeg",
+        "size": "728.63 KB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-z-wp003-droidviews.jpg",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-z-wp003-droidviews.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-z-wp004-droidviews",
+        "type": "image/jpeg",
+        "size": "817.03 KB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-z-wp004-droidviews.jpg",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-z-wp004-droidviews.webp"
+      },
+      {
+        "name": "google-pixel-pixel-xl-z-wp005-droidviews",
+        "type": "image/jpeg",
+        "size": "825.36 KB",
+        "originPath": "google pixel/Google Pixel:Pixel XL/origin/google-pixel-pixel-xl-z-wp005-droidviews.jpg",
+        "compressPath": "google pixel/Google Pixel:Pixel XL/compress/google-pixel-pixel-xl-z-wp005-droidviews.webp"
+      }
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Huawei MatePad Pro",
+    "date": "2019/11",
+    "item": [
+      {
+        "name": "huawei-matepad-pro-gold-cyan-gradient",
+        "type": "image/jpeg",
+        "size": "2.49 MB",
+        "originPath": "huawei matepad/Huawei MatePad Pro/origin/huawei-matepad-pro-gold-cyan-gradient.jpg",
+        "compressPath": "huawei matepad/Huawei MatePad Pro/compress/huawei-matepad-pro-gold-cyan-gradient.webp"
+      },
+      {
+        "name": "huawei-matepad-pro-gold-teal-photo",
+        "type": "image/jpeg",
+        "size": "2.99 MB",
+        "originPath": "huawei matepad/Huawei MatePad Pro/origin/huawei-matepad-pro-gold-teal-photo.jpg",
+        "compressPath": "huawei matepad/Huawei MatePad Pro/compress/huawei-matepad-pro-gold-teal-photo.webp"
+      },
+      {
+        "name": "huawei-matepad-pro-mint-green-abstract",
+        "type": "image/jpeg",
+        "size": "1.06 MB",
+        "originPath": "huawei matepad/Huawei MatePad Pro/origin/huawei-matepad-pro-mint-green-abstract.jpg",
+        "compressPath": "huawei matepad/Huawei MatePad Pro/compress/huawei-matepad-pro-mint-green-abstract.webp"
+      },
+      {
+        "name": "huawei-matepad-pro-teal-mint-abstract",
+        "type": "image/jpeg",
+        "size": "1.18 MB",
+        "originPath": "huawei matepad/Huawei MatePad Pro/origin/huawei-matepad-pro-teal-mint-abstract.jpg",
+        "compressPath": "huawei matepad/Huawei MatePad Pro/compress/huawei-matepad-pro-teal-mint-abstract.webp"
+      }
+    ]
+  },
+  {
+    "name": "Huawei MediaPad M6",
+    "date": "2019/06",
+    "item": [
+      {
+        "name": "huawei-mediapad-m6-beige-white-abstract",
+        "type": "image/jpeg",
+        "size": "3.18 MB",
+        "originPath": "huawei matepad/Huawei MediaPad M6/origin/huawei-mediapad-m6-beige-white-abstract.jpg",
+        "compressPath": "huawei matepad/Huawei MediaPad M6/compress/huawei-mediapad-m6-beige-white-abstract.webp"
+      },
+      {
+        "name": "huawei-mediapad-m6-black-purple-gradient",
+        "type": "image/jpeg",
+        "size": "4.19 MB",
+        "originPath": "huawei matepad/Huawei MediaPad M6/origin/huawei-mediapad-m6-black-purple-gradient.jpg",
+        "compressPath": "huawei matepad/Huawei MediaPad M6/compress/huawei-mediapad-m6-black-purple-gradient.webp"
+      },
+      {
+        "name": "huawei-mediapad-m6-blue-beige-abstract",
+        "type": "image/jpeg",
+        "size": "3.95 MB",
+        "originPath": "huawei matepad/Huawei MediaPad M6/origin/huawei-mediapad-m6-blue-beige-abstract.jpg",
+        "compressPath": "huawei matepad/Huawei MediaPad M6/compress/huawei-mediapad-m6-blue-beige-abstract.webp"
+      },
+      {
+        "name": "huawei-mediapad-m6-blue-mint-gradient",
+        "type": "image/jpeg",
+        "size": "5.34 MB",
+        "originPath": "huawei matepad/Huawei MediaPad M6/origin/huawei-mediapad-m6-blue-mint-gradient.jpg",
+        "compressPath": "huawei matepad/Huawei MediaPad M6/compress/huawei-mediapad-m6-blue-mint-gradient.webp"
+      },
+      {
+        "name": "huawei-mediapad-m6-cyan-blue-abstract",
+        "type": "image/jpeg",
+        "size": "2.42 MB",
+        "originPath": "huawei matepad/Huawei MediaPad M6/origin/huawei-mediapad-m6-cyan-blue-abstract.jpg",
+        "compressPath": "huawei matepad/Huawei MediaPad M6/compress/huawei-mediapad-m6-cyan-blue-abstract.webp"
+      },
+      {
+        "name": "huawei-mediapad-m6-mint-silver-abstract",
+        "type": "image/jpeg",
+        "size": "4.65 MB",
+        "originPath": "huawei matepad/Huawei MediaPad M6/origin/huawei-mediapad-m6-mint-silver-abstract.jpg",
+        "compressPath": "huawei matepad/Huawei MediaPad M6/compress/huawei-mediapad-m6-mint-silver-abstract.webp"
+      },
+      {
+        "name": "huawei-mediapad-m6-purple-black-gradient",
+        "type": "image/jpeg",
+        "size": "1.16 MB",
+        "originPath": "huawei matepad/Huawei MediaPad M6/origin/huawei-mediapad-m6-purple-black-gradient.jpg",
+        "compressPath": "huawei matepad/Huawei MediaPad M6/compress/huawei-mediapad-m6-purple-black-gradient.webp"
+      },
+      {
+        "name": "huawei-mediapad-m6-silver-white-abstract",
+        "type": "image/jpeg",
+        "size": "1.89 MB",
+        "originPath": "huawei matepad/Huawei MediaPad M6/origin/huawei-mediapad-m6-silver-white-abstract.jpg",
+        "compressPath": "huawei matepad/Huawei MediaPad M6/compress/huawei-mediapad-m6-silver-white-abstract.webp"
+      }
+    ]
+  }
+]
