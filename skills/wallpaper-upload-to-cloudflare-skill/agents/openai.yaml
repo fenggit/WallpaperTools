@@ -1,0 +1,4 @@
+interface:
+  display_name: "Upload To Cloudflare"
+  short_description: "Upload local files to Cloudflare R2 safely"
+  default_prompt: "Use this skill to upload a local path to Cloudflare R2 only after explicitly confirming the bucket and remote prefix."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wallpaper Brand Data JSON"
+  short_description: "Generate per-brand wallpaper data JSON files."
+  default_prompt: "Use $wallpaper_generate_brand_data_json to generate wallpaper brand data JSON from a specified input path."

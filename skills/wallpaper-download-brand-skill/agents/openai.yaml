@@ -1,0 +1,4 @@
+interface:
+  display_name: "Download Brand Wallpapers"
+  short_description: "Download and normalize phone wallpapers"
+  default_prompt: "Use $download-brand-wallpapers to download original-quality wallpapers for a phone brand and normalize the folder structure."
