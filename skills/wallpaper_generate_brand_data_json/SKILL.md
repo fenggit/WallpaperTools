@@ -3,6 +3,9 @@ name: wallpaper_generate_brand_data_json
 description: Generate wallpaper brand data JSON files from brand/model/origin folder trees with configurable input/output paths and optional date mapping. Chinese trigger phrases include "壁纸生成json数据", "壁纸 生成 json", and "壁纸 数据 json".
 ---
 
+## output language
+- 中文
+
 # Wallpaper Generate Brand Data JSON
 
 ## Trigger Phrases (中文)

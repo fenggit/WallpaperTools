@@ -3,6 +3,9 @@ name: wallpaper-download-brand-skill
 description: Use this skill when the request is about downloading brand wallpapers in batch, including Chinese trigger phrases like "壁纸下载", "壁纸 批量下载", and "壁纸 抓取".
 ---
 
+## output language
+- 中文
+
 # Download Brand Wallpapers
 
 ## Trigger Phrases (中文)

@@ -3,6 +3,9 @@ name: wallpaper-rename-skill
 description: Use this skill when renaming wallpaper image files with consistent brand-model and description rules. Chinese trigger phrases include "壁纸重命名", "壁纸 改名", and "壁纸 文件名规范".
 ---
 
+## output language
+- 中文
+
 # Wallpaper Filename Rules
 
 ## Trigger Phrases (中文)

@@ -3,6 +3,9 @@ name: wallpaper-caesium-compress-skill
 description: Batch compress wallpaper images with CaesiumCLT. Chinese trigger phrases include "壁纸压缩", "壁纸 批量压缩", and "壁纸 转webp".
 ---
 
+## output language
+- 中文
+
 # Caesium Batch Compress
 
 ## Trigger Phrases (中文)

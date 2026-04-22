@@ -3,6 +3,9 @@ name: wallpaper-upload-to-cloudflare-skill
 description: Upload wallpaper files or folders to Cloudflare R2 with configurable source path, bucket, and remote prefix. Chinese trigger phrases include "壁纸上传", "壁纸 上传 cloudflare", and "壁纸 上传 r2".
 ---
 
+## output language
+- 中文
+
 # Upload To Cloudflare
 
 ## Trigger Phrases (中文)
